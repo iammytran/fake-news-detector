@@ -1,0 +1,33 @@
+ authors_encoded                                                                                           authors_original
+               0                                                                                                           
+               1                                                                                                    An Bình
+               2                                                                                                 CÔNG TRUNG
+               3                                                                                               Cùng Tác Giả
+               4                                                                                 Cùng Tác Giả, Nguyễn Thiện
+               5                                                                                                 D.KIM THOA
+               6                                                                                              Gioi Tre Viet
+               7                                                                                                  Hiếu Công
+               8    Hoàng Vy Thế Giới Trẻ, - Phuong Thao -, - Dung Mai -, - Thu Huyền -, - Nhi -, - Daisy -, - Thanh Xuân -
+               9                                                                                                   Hạ Huyền
+              10                                                                                                          J
+              11                                                                                                  Khánh Chi
+              12                                                                                                     Lê Anh
+              13                                                                     Lịch Ngày Tốt, Hunglam Lichngaytot.Com
+              14                                                                                                  Minh Hạnh
+              15                                                                                                Nguyễn Tiến
+              16                                                                                                 Ngân Giang
+              17                                                                                                   Ngô Minh
+              18                                                                                                   Ngọc Tân
+              19 Phuong Thao Thế Giới Trẻ, - Phuong Thao -, - Dung Mai -, - Thu Huyền -, - Nhi -, - Daisy -, - Thanh Xuân -
+              20                                                                                Please Enter Your Name Here
+              21                                                                                                 Ruô I Trâu
+              22                                                                                                   SƠN BÌNH
+              23                                                                              Theo Doanh Nghiệp Và Tiếp Thị
+              24                                                                                                    Thời Sự
+              25                                                                                      Tiêu Phong, Liên Châu
+              26                                                                                                  Trần Tiến
+              27                                                                                            Tuoi Tre Online
+              28                                                                                                   Tuấn Anh
+              29                                                                                                      Video
+              30                                                                                                  Văn Trình
+              31                                                                                    Webmaster Vnexpress.Net
