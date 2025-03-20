@@ -1,0 +1,653 @@
+title,author,maintext,source,fake_score_from_rule_based,fake_score_from_llm,final_fake_score,predict_label,expected_label
+Sắp có tuyến buýt '5 sao' từ Tân Sơn Nhất đi Vũng Tàu,,"TP HCM muốn có tuyến buýt từ Tân Sơn Nhất đi các tỉnh
+UBND TP HCM vừa giao Sở Giao thông vận tải thành phố chịu trách nhiệm triển khai tuyến xe buýt không trợ giá từ sân bay Tân Sơn Nhất đi tỉnh Bà Rịa - Vũng Tàu và ngược lại.
+Tuyến dài 105 km, điểm đầu là sân bay, điểm cuối là bến xe Bà Rịa - Vũng Tàu. Thời gian hoạt động từ 0h đến 23h30 - phù hợp lịch bay tại Tân Sơn Nhất.
+TP HCM hiện có 5 tuyến buýt lộ trình đi qua Tân Sơn Nhất. Ảnh: Hữu Nguyên.
+Các xe có wifi phát sóng; dịch vụ đặt chỗ cho khách kể cả khách nước ngoài; hỗ trợ khách đặt vé, đổi trả vé theo quy định của ngành hàng không; giúp hành khách ký gửi hành lý, hàng hóa...
+Giá vé từ sân bay Tân Sơn Nhất về Vũng Tàu dự kiến áp dụng mức chung như các hãng xe hiện nay là khoảng 180.000 đồng, trong đó có tiền bảo hiểm rủi ro trên đường.
+Động thái này của TP HCM nhằm chấn chỉnh tình trạng xe đón khách hoạt động bát nháo trong sân bay. Sau thời gian thí điểm, Sở GTVT sẽ đánh giá, xem xét việc đề xuất mở rộng triển khai thêm các tuyến từ Tân Sơn Nhất đi các tỉnh khác và ngược lại.
+TP HCM hiện có 5 tuyến buýt cố định hoạt động có lộ trình đi qua sân bay Tân Sơn Nhất gồm: 152 (Khu dân cư Trung Sơn – Chợ Bến Thành – Tân Sơn Nhất), 119 (Bến xe Miền Tây - Tân Sơn Nhất), 109 (Công viên 23/9 – Tân Sơn Nhất); 159 (Bến xe Miền Đông – Tân Sơn Nhất – Bến xe An Sương); 49 (Tân Sơn Nhất đến các khách sạn và địa điểm trung tâm thành phố...).
+Hữu Nguyên",vnexpress.net,0.25,0.44548106,0.38860276341438293,Real,Real
+Nhân viên an ninh sân bay Thọ Xuân bị phạt vì 'phản ứng chậm',,"Nhân viên an ninh hàng không Thọ Xuân bị xem xét trách nhiệm
+Chiều 4/12, Cảng vụ Hàng không miền Bắc đã ra quyết định xử phạt hành chính bốn nhân viên an ninh sân bay Thọ Xuân (tỉnh Thanh Hóa) do không làm đúng quy định tại sân bay.
+Theo ông Trần Hoài Phương, Giám đốc Cảng vụ hàng không miền Bắc, các nhân viên an ninh sân bay này đang làm nhiệm vụ kiểm soát và soi chiếu, không phải là lực lượng cơ động sân bay, song khi thấy xảy ra sự việc xô xát trong khu vực mình kiểm soát thì cần phải can thiệp để ngăn chặn.
+Nữ nhân viên sân bay bị nhóm thanh niên đánh vào đầu, đạp ngã tại sảnh ga đi. Ảnh cắt từ video.
+""Qua hình ảnh camera cho thấy những nhân viên an ninh này đã phản ứng chậm chạp, để nhóm côn đồ đánh phụ nữ trước mặt"", ông Phương nhận xét.
+Nhà chức trách đã ra quyết định xử phạt 4 nhân viên an ninh sân bay Thọ Xuân với số tiền 4 triệu đồng mỗi người. Cùng với đó, sân bay Thọ Xuân được yêu cầu tiến hành bình giảng rút kinh nghiệm, không để tái diễn sự việc tương tự.
+Các nhân viên an ninh sân bay Thọ Xuân (áo trắng) tại hiện trường sự việc. Ảnh cắt từ video.
+Trước đó, tổ công tác của Cảng vụ hàng không miền Bắc đã làm việc tại sân bay Thọ Xuân và xem hình ảnh camera về vụ gây rối tại sân bay. Qua đó, tổ công tác đánh giá lực lượng an ninh cơ động sân bay Thọ Xuân đã phản ứng kịp thời nhằm ngăn chặn nhóm người gây rối. Tuy nhiên, bốn nhân viên an ninh kiểm soát và soi chiếu chưa thực hiện đúng chức trách nhiệm vụ được giao.
+Khoảng 14h20 ngày 23/11, một nhóm người đã vào sân bay Thọ Xuân tiễn bạn đi TP HCM. Họ yêu cầu nhân viên hàng không Lê Thị Giang chụp ảnh chung nhưng chị Giang từ chối do đang làm việc.
+Không được đáp ứng, nhóm người đã chửi bới, tát vào mặt và đạp ngã chị Giang. Một nữ cán bộ quản lý chứng kiến chạy ra can thì bị đấm vào đầu, đạp ngã. Hai nhân viên an ninh cũng bị một thanh niên giật mũ, đấm vào người...
+Ba thanh niên hành hung nữ nhân viên ở sân bay Thọ Xuân Ba thanh niên hành hung nhân viên hàng không tại sân bay Thọ Xuân.
+Ngày 25/11, Công an huyện Thọ Xuân (Thanh Hoá) khởi tố nhóm thanh niên để điều tra tội danh gây rối trật tự công cộng.
+Đoàn Loan - Lê Hoàng",vnexpress.net,0.25,0.43676284,0.38860276341438293,Real,Real
+Tung tin &#39;Mr Bean&#39; qua đời để phát tán virus độc hại,Hạ Huyền,"Hôm 19/7, nhiều độc giả cảnh báo nhau trên mạng về một loại virus máy tính phát tán qua tin giả ""Mr. Bean - Rowan Atkinson qua đời"" mạo danh Fox News.
+
+Thông tin lan truyền cách đây ít phút trên mạng xã hội. Theo trang SDE, các đối tượng phát tán những bài đăng giả trên mạng xã hội với hình thức như một đường link tin tức, tiêu đề là ""Tin nóng của Fox News: Mr Bean (Rowan Atkinson) vừa qua đời ở tuổi 62 sau một vụ đâm xe trong lúc đóng cảnh hành động mạo hiểm: Hôm nay, tháng 7/2017"".
+Tung tin 'Mr Bean' qua doi de phat tan virus doc hai hinh anh 1
+Tin cải chính về cái chết của Rowan Atkinson được đưa ra kịp thời để bảo vệ người dùng khỏi virus. Ảnh: Chronicle Live .
+
+Vì gắn với một cơ quan truyền thông lớn là Fox News nên mẩu tin dễ dàng thu hút sự chú ý và tin cậy của độc giả, dù thông tin ngày tháng bị sai lệch. Trang SDE cảnh báo bất cứ độc giả nào nhìn thấy đường link chứa thông tin này không được bấm vào vì thực chất đó là một virus đội lốt.
+
+Đường link sẽ dẫn thẳng đến một trang web lừa đảo và mã độc nhảy vào máy tính của người truy cập.
+
+Đây không phải lần đầu tiên Rowan Atkinson trở thành nạn nhân của tin đồn qua đời. Trước đây, vào năm 2016 và tháng 3 năm nay, từng có một loạt bài thất thiệt khẳng định tài tử Johnny English đã tử vong trong một tai nạn xe ở Los Angeles.
+
+Thông tin về các ngôi sao qua đời cũng thường xuyên được làm giả để lan truyền virus độc hại. Trang web Hoax Slayer đã thống kê hầu hết trường hợp tương tự để cảnh báo độc giả.
+Tung tin 'Mr Bean' qua doi de phat tan virus doc hai hinh anh 2
+Rất nhiều người nổi tiếng bị kẻ gian tung tin qua đời vì mục đích xấu. Ảnh: CNN.
+
+Những tin giả này thường dẫn người dùng đến các trang web cảnh báo máy tính đã bị xâm nhập và yêu cầu người dùng gọi đến số điện thoại hỗ trợ. Nhưng khi họ gọi đến, những kẻ lừa đảo sẽ thu thập thông tin tài khoản ngân hàng của họ với mục đích thanh toán tiền sửa chữa máy tính hoặc tải phần mềm bảo vệ máy.
+
+Thực chất, đó là các phần mềm kiểm soát máy tính và ăn cắp dữ liệu, cài mã độc từ xa.",https://news.zing.vn,1.03,0.4913835,0.38860276341438293,Fake,Real
+Máy bay Vietjet gặp sự cố ở Buôn Ma Thuột mới chỉ bay 8 chặng,CÔNG TRUNG,"TTO - Chuyến bay số hiệu VJ356 được Vietjet Air khai thác bằng máy bay VN-A653 của Airbus mới tiếp nhận 2 tuần trước và mới khai thác 8 chặng bay trong ngày 29-11 thì gặp sự cố ở Buôn Ma Thuột.
+
+    Vietjet Air ngừng khai thác 4 chuyến bay tại Chu Lai do thời tiết
+    Hành khách hoảng sợ chắp tay cầu nguyện trên máy bay Vietjet
+
+
+Máy bay Vietjet gặp sự cố ở Buôn Ma Thuột mới chỉ bay 8 chặng - Ảnh 1.
+
+Máy bay Vietjet gặp sự cố vừa được hãng đưa vào khai thác cách đây 2 tuần - Ảnh: Flightrada
+
+Theo Cục Hàng không VN, chuyến bay VJ356 của Vietjet Air hạ cánh ở sân bay Buôn Ma Thuột  lúc 23h03 ngày 29-11 đã gặp sự cố nghiêm trọng trong quá trình hạ cánh. 
+
+Chuyến bay này được thực hiện bằng máy bay A321 số đăng ký quốc tịch VN-A653 được Hãng hàng không VJA mới tiếp nhận từ nhà chế tạo Airbus và đưa vào khai thác thuơng mại từ ngày 15-11-2018.
+Máy bay Vietjet gặp sự cố ở Buôn Ma Thuột mới chỉ bay 8 chặng - Ảnh 2.
+
+Máy bay Vietjet gặp sự cố khi hạ cánh, cửa thoát hiểm được mở ra - Ảnh: MT
+
+Theo tìm hiểu của Tuổi Trẻ Online, máy bay này vừa được Vietjet đưa về Việt Nam hoạt động với số hiệu đăng ký VN-A653, hoạt động từ 2 tuần trước. 
+
+Trước khi gặp sự cố ở sân bay Buôn Ma Thuột, Vietjet đã khai thác máy bay này bay 8 chặng trong ngày 29-11. 
+
+Máy bay này khai thác chặng bay đầu tiên trong ngày 29-11 từ TP.HCM - Vinh lúc 6h sáng. Sau đó, lần lượt thực hiện các chuyến bay từ Vinh - TP.HCM; Vinh - Pleiku; Pleiku - Vinh; Vinh - TP.HCM; TP.HCM - Phú Quốc; Phú Quốc - TP.HCM; TP.HCM - Pleiku; Pleiku - TP.HCM và chuyến bay cuối cùng trong ngày bị gặp sự cố từ TP.HCM - Buôn Ma Thuột. 
+
+Trong báo cáo tài chính của Vietjet Air, đơn vị này cho biết trong quý 3, hãng nhận thêm 3 máy bay mới, đưa tổng số tàu dự kiến khai thác tới cuối năm 2018 là 65 chiếc.
+
+Như vậy, sau 9 tháng năm 2018, Vietjet tiếp tục là hãng hàng không có tổng số chuyến bay khai thác tăng trưởng tốt nhất với 89.690 chuyến bay, tăng gần 22%, vận chuyển hơn 16,8 triệu lượt hành khách. 
+Máy bay Vietjet gặp sự cố ở Buôn Ma Thuột mới chỉ bay 8 chặng - Ảnh 3.
+
+Tối 29-11, máy bay Vietjet đã gặp sự cố ở Buôn Ma Thuột, ít nhất 6 người bị thương phải đưa vào bệnh viện - Ảnh: L.Dương
+
+Như Tuổi Trẻ Online đã đưa tin, Cục Hàng không VN cho biết vào lúc 23h03 đêm 29-11, chuyến bay VJ356 của Hãng hàng không Vietjet bay từ TP.HCM đi Buôn Ma Thuột gặp sự cố nghiêm trọng trong quá trình hạ cánh.
+
+Theo Cục Hàng không VN, 2 bánh trước của máy bay đã bị mất trong quá trình hạ cánh, máy bay đã dừng lại an toàn tại sân bay Buôn Ma Thuột.
+
+Tổ bay đã triển khai quy trình khẩn nguy và thoát hiểm hành khách theo quy trình khai thác, toàn bộ 207 hành khách đã thoát hiểm an toàn. 6 hành khách bị chấn thương đã được kịp thời đưa vào Bệnh viện đa khoa Thiện Hạnh để kiểm tra sức khỏe. Hiện có 4 hành khách đã được xuất viện với tình trạng sức khỏe bình thường.",tuoitre.vn,0.45,0.44737396,0.38860276341438293,Real,Real
+Lao động nước ngoài ở Việt Nam phải đóng bảo hiểm xã hội,,"Chính phủ vừa ban hành Nghị định quy định chi tiết Luật bảo hiểm xã hội và Luật an toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với công dân nước ngoài làm việc tại Việt Nam.
+Công dân nước ngoài làm việc tại Việt Nam có giấy phép lao động hoặc chứng chỉ hành nghề do cơ quan có thẩm quyền của Việt Nam cấp và có hợp đồng lao động không xác định thời hạn hoặc xác định từ đủ một năm trở lên tại Việt Nam sẽ phải đóng bảo hiểm bắt buộc.
+Phi công nước ngoài làm việc tại các hãng hàng không trong nước đều phải mua bảo hiểm xã hội. Ảnh: Đoàn Loan
+Người sử dụng lao động tham gia bảo hiểm xã hội bắt buộc bao gồm cơ quan nhà nước, đơn vị sự nghiệp, tổ chức chính trị, tổ chức chính trị - xã hội, cơ quan, tổ chức nước ngoài, doanh nghiệp được phép hoạt động kinh doanh theo quy định của pháp luật có thuê mướn, sử dụng lao động theo hợp đồng lao động.
+Chế độ bảo hiểm xã hội đối với người lao động nước ngoài tính trên thời gian tham gia bảo hiểm. Về chế độ ốm đau, nghị định quy định điều kiện hưởng chế độ ốm đau thực hiện theo Luật bảo hiểm xã hội.
+Chế độ hưu trí cũng được quy định theo Luật bảo hiểm xã hội. Người lao động có thể hưởng lương hưu hàng tháng hoặc trợ cấp một lần khi nghỉ hưu.
+Về chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp, nghị định quy định điều kiện hưởng chế độ tai nạn lao động thực hiện theo Luật an toàn, vệ sinh lao động.",vnexpress.net,0.0,0.4712125,0.38860276341438293,Real,Real
+"Khiếp sợ với chiếc mũi biến dạng kinh dị, người đàn ông khiến cả phòng phẫu thuật ám ảnh khi vừa chạm kéo là cảnh tượng…",,"Sau nhiều năm bị dè bỉu vì chiếc mũi “khủng” kinh dị, người đàn ông khiến nhiều người phải sửng sốt sau khi phẫu thuật xong.
+Tibor, 52 tuổi một người đàn ông Slovakia, với chiếc mũi “khủng” có thể là to nhất thế giới khiến nhiều người nhìn thấy không khỏi kinh hãi. Chiếc mũi của ông biến dạng và nổi to bất thường suốt nhiều năm, làm cho cuộc sống, công việc gặp nhiều khó khăn.
+Chiếc mũi to bất thường và biến dạng khiến khuôn mặt trở lên kì dị, nỗi sợ hãi với người đối diện.
+Bất kì ai nhìn thấy “chiếc mũi khổng lồ”, biến dạng kinh dị này của ông đều rất sợ hãi và e ngại khi phải đối diện hay tiếp xúc. Chính vì vậy, ông đã phải sống thiếu tự tin suốt nhiều năm với khuôn mặt bị khuyết điểm này.
+Chiếc mũi biến dạng kì dị khiến cuộc sống của ông gặp nhiều khó khăn.
+Làm nghề sửa ống nước, hầu hết các khách hàng của ông đều rất sợ mỗi khi nhìn thấy chiếc mũi to bất thường này. Thực tế, để phẫu thuật chiếc mũi trở về với hình dáng bình thường là điều không khó, tuy nhiên Tibor lại là một người rất sợ dao kéo.
+Tuy vậy, những thuyết phục của người thân và những sự mặc cảm thiếu tự tin trong cuộc sống bao nhiêu năm đã giúp ông đưa ra quyết định. Ca phẫu thuật được tiến hành, nhiều người mong chờ kết quả sẽ có nhiều thuận lợi và như ý muốn.
+Tibor đã rất khó khăn khi đứa ra quyết đinh phãu thuật chiếc mũi dị dạng của mình.
+Mọi người luôn mong đợi kết quả phẫu thuật sẽ khiến ông tự tin hơn về ngoại hình.
+Chứng bệnh kì lạ mà Tibor gặp phải có tên là mũi sư tử, căn bệnh này thường sẽ xuất hiện ở những người bị viêm da đỏ mặt trong nhiều năm. Chúng không chỉ ảnh hưởng đến ngoại hình của người bệnh, thậm chí còn gây ra chứng giảm thị giác, có thể dẫn đến mù lòa.
+Sau phẫu thuật, chiếc mũi dị dạng được cắt bỏ, ông có thể hoàn toàn tự tin hơn về ngoài hình, và làm tốt công việc của mình.",tinvn.info,0.45,0.54348403,0.38860276341438293,Real,Fake
+Có tin Tổng thống Ukraine Zelensky đang trốn trong Đại sứ quán Mỹ ở Ba Lan,Tuấn Anh,"Tuấn Anh
+Tổng thống Ukraine Vladimir Zelensky đã rời Ukraine, hiện ông đang ở trong Đại sứ quán Mỹ ở Ba Lan, Chủ tịch Duma Quốc gia Vyacheslav Volodin cho biết.
+Tuy nhiên một trang khác đã dẫn tin Quốc hội Ukraine bác bỏ thông tin này.
+Tổng thống Ukraine Zelensky. Ảnh Economic Times
+Trên trangTelegram của mình, ông Volodin viết: “Zelensky đã rời Ukraine. Các nghị sỹ Verkhovna Rada nói họ không thể đến gặp ông ấy ở Lvov. Hiện ông ấy đang ở Ba Lan”.
+Trong khi đó, cựu Thủ tướng Ukraine Nikolai Azarov cũng cho biết, boongke “tổng thống” ở Kiev, nơi ông Vladimir Zelensky được cho là đang ẩn náu, được bảo vệ khỏi nguy cơ tấn công hạt nhân.
+Video đang HOT
+“Nếu ông ấy đang ở Kiev trong boongke nổi tiếng ở phủ tổng thống, thì đó là boongke được bảo vệ tuyệt đối, nó được chuẩn bị từ thời Liên Xô cho đội ngũ lãnh đạo chính trị và quân sự hàng đầu Ukraine hồi đó trú ẩn nếu bị tấn công hạt nhân. Nếu xảy ra một vụ tấn công trực diện bằng vũ khí hạt nhân cũng sẽ không gây ra bất kỳ tổn hại nào cho những người trú trong boongke đó”, ông Azarov nói.
+Ông nói thêm rằng boongke có một số lối thoát hiểm và “một số lượng lớn các phòng được trang bị đầy đủ để nghỉ ngơi, làm việc…Hơn nữa, có những lối thoát hiểm để đi đến sân bay trực thăng chỉ trong vài phút theo đúng nghĩa đen”.
+Đồng thời, ông nhấn mạnh rằng vẫn chưa rõ có đúng là Zelensky vẫn đang ở Kiev hay không. “Mà không ở đâu đó nước ngoài rồi. Điều này cũng khó nói”, ông Azarov nhận xét.
+Tuy nhiên trang Republic World dẫn lời Quốc hội Ukraine bác bỏ các thông tin trên và đảm bảo rằng ông Zelensky vẫn đang ở Kiev.
+EU gia tăng sức ép với Nga sau chiến sự ở Ukraine Liên minh châu Âu (EU) dự kiến sẽ áp dụng các biện pháp trừng phạt mạnh mẽ đối với các quan chức Nga sau chiến dịch quân sự ở Ukraine. Tổng thống Nga Vladimir Putin (Ảnh: AP). Reuters dẫn lời một quan chức EU hôm nay 25/2 cho biết EU đang lên kế hoạch cho đợt trừng phạt thứ 3 nhằm vào Nga. Đại sứ của 27 nước thành viên EU đã nhất trí đóng băng tài sản tại châu Âu của Tổng thống Nga Vladimir Putin và Ngoại trưởng Nga Sergey Lavrov. ""Chúng tôi đang xúc tiến nhanh nhất có thể"", quan chức EU giấu tên cho biết, đồng thời cảnh báo EU cũng có thể nhắm mục tiêu ""nhiều hơn"" tới các nhà tài phiệt Nga. Các biện pháp trừng phạt của EU cũng sẽ nhắm vào giới tinh hoa Nga, gây khó khăn cho hoạt động đi lại của các nhà ngoại giao. Tuy nhiên, các nhà lãnh đạo EU đã chọn phương án không hạn chế nhập khẩu năng lượng của Nga, hoặc cắt Nga khỏi hệ thống thanh toán quốc tế. Bộ trưởng Tài chính Pháp Bruno Le Maire, người chủ trì một cuộc họp của các đối tác EU tại Paris để thảo luận về các hậu quả kinh tế, cho biết việc loại bỏ Nga khỏi hệ thống thanh toán quốc tế vẫn là một lựa chọn, nhưng chỉ là phương án cuối cùng. Trước đó, Tổng thống Ukraine Volodymyr Zelensky đã hối thúc châu Âu hành động nhanh chóng và mạnh mẽ hơn trong việc áp đặt các biện pháp trừng phạt đối với Moscow. Ông Zelensky đề xuất các biện pháp như cấm công dân Nga vào EU, cắt Nga khỏi hệ thống thanh toán toàn cầu và cấm vận dầu khí của Nga. Tổng thống Mỹ Joe Biden ngày 24/2 công bố lệnh trừng phạt mới mà ông mô tả là sẽ gây ra ""hậu quả nghiêm trọng với nền kinh tế Nga, ngay lập tức và trong thời gian dài hạn"". Lệnh trừng phạt nhằm vào lĩnh vực công nghệ của Nga, bao gồm cắt giảm hơn một nửa nhập khẩu công nghệ của nước này, cũng như các ngành công nghiệp vũ trụ, hàng không và quân sự. 4 ngân hàng Nga với tổng tài sản hơn 1.000 tỷ USD sẽ bị trừng phạt và tài sản của những ngân hàng này tại Mỹ cũng bị đóng băng. Mỹ cho biết, họ trừng phạt vào một số nhân vật thuộc tầng lớp tinh hoa của Nga và các thành viên gia đình. Tổng thống Biden cũng để ngỏ khả năng có thể trừng phạt Tổng thống Nga Vladimir Putin. Động thái trừng phạt của Mỹ và phương Tây được thực hiện sau khi Nga ngày 24/2 tiến hành chiến dịch quân sự đặc biệt ở Đông Ukraine nhằm bảo vệ 2 khu vực ly khai mà Moscow công nhận vài ngày trước đó. Ukraine chỉ trích động thái của Nga và cắt quan hệ ngoại giao với Moscow. Ngoại trưởng Ukraine hôm 22/2 kêu gọi thế giới dùng tất cả sức mạnh kinh tế để trừng phạt Nga vì công nhận độc lập của 2 vùng ly khai. Tổng thống Putin tuyên bố các lệnh trừng phạt của phương Tây nhằm vào Nga là vô ích. Ông nói rằng Nga khó tránh khỏi các lệnh trừng phạt của phương Tây bởi chúng không nhằm làm thay đổi hành vi của Moscow, mà nhằm cản trở sự phát triển kinh tế của Nga. Bộ trưởng Tài chính Nga Anton Siluanov cho biết Moscow vẫn có khả năng đối phó các lệnh trừng phạt từ phương Tây nhờ dự trữ vàng và ngoại hối lớn.
+Ukraine chỉ trích việc NATO không thiết lập vùng cấm bay Theo hãng tin Reuters của Anh, ngày 5/3, Ngoại trưởng Ukraine Dmytro Kuleba đã bày tỏ thất vọng trước quyết định của các nước thành viên Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) không thiết lập vùng cấm bay trên lãnh thổ Ukraine. Ngoại trưởng Ukraine Dmytro Kuleba. Ảnh: AFP/TTXVN Trong một phát biểu trên truyền hình, Ngoại trưởng Kuleba cho...",vietgiaitri.com,0.45,0.4840527,0.38860276341438293,Real,Fake
+Nadal gặp Tsitsipas ở chung kết Giải quần vợt Barcelona mở rộng,Tuoi Tre Online,"Nadal ăn mừng chiến thắng trước Goffin. Ảnh: GETTY IMAGES
+Trận này, Nadal nhập cuộc không tốt khi để mất break ngay ở bàn đầu tiên, tạo cơ hội cho Goffin vươn lên dẫn 2-0. Tuy nhiên, với bản lĩnh của tay vợt từng 10 lần lên ngôi vô địch ở giải đấu này, Nadal đã rút ngắn khoảng cách, rồi quân bình tỉ số 2-2 ở bàn thứ 4 khi bẻ được giao bóng của Goffin.
+Sau đó, Nadal liên tục vươn lên dẫn trước Goffin và đến bàn thứ 10, tay vợt người Tây Ban Nha một lần nữa bẻ thành công giao bóng của Goffin để kết thúc ván 1 với tỉ số 6-4 sau 49 phút.
+Thất bại ở ván 1 đã ảnh hưởng lớn đến tâm lý thi đấu của tay vợt người Bỉ. Sang ván 2, Goffin thi đấu sa sút và mắc rất nhiều lỗi đánh bóng hỏng, tạo cơ hội cho Nadal thắng một mạch 6 bàn (6-0) để kết thúc trận đấu sau 1 giờ 15 phút.
+Đây là lần thứ 11 Nadal có mặt ở chung kết Giải quần vợt Barcelona mở rộng kể từ năm 2005. Trong 10 lần vào chung kết trước, Nadal đều đoạt ngôi vô địch.
+Đối thủ của Nadal ở chung kết là hiện tượng Stefanos Tsitsipas (Hi Lạp). Ở trận đấu diễn ra trước đó, tay vợt 19 tuổi người Hi Lạp đã gây bất ngờ khi đánh bại hạt giống số 5 Pablo Carreno-Busta (Tây Ban Nha) 2-0 (7-5, 6-3) để lần đầu tiên trong sự nghiệp có mặt ở chung kết Giải quần vợt Barcelona mở rộng.",thethao.tuoitre.vn,0.0,0.46387655,0.38860276341438293,Real,Real
+Khởi tố ông Nguyễn Hoài Nam - bí thư Quận ủy Quận 2,,"TTO - Sáng nay 8-12, Cơ quan cảnh sát điều tra Bộ Công an đã ra quyết định khởi tố ông Nguyễn Hoài Nam, bí thư Quận ủy Quận 2, TP.HCM, áp dụng lệnh cấm đi khỏi nơi cư trú.
+
+    Bắt ông Nguyễn Thành Tài, cựu phó chủ tịch UBND TP.HCM
+    Clip ông Nguyễn Thành Tài nói về việc giao khu đất 'vàng' đường Lê Duẩn
+
+Khởi tố ông Nguyễn Hoài Nam - bí thư Quận ủy Quận 2 - Ảnh 1.
+
+Ông Nguyễn Hoài Nam - bí thư Quận ủy Quận 2, TP.HCM - Ảnh: D.H.
+
+Ông Nguyễn Hoài Nam bị khởi tố để điều tra những sai phạm trong việc giao, cho thuê không qua đấu giá khu ""đất vàng"" 5.000m2 số 8-12 đường Lê Duẩn, quận 1.
+
+Những sai phạm của ông Nam được xác định ở thời đểm khi ông này còn là trưởng phòng quy hoạch sử dụng đất Sở Tài nguyên môi trường TP.HCM.
+
+Cụ thể, khi còn là trưởng phòng quy hoạch sử dụng đất Sở Tài nguyên môi trường TP.HCM, ông Nam đã tham mưu cho giám đốc Sở Tài nguyên môi trường TP.HCM ký tờ trình để UBND thành phố giao đất cho Công ty CP đầu tư Lavenue sai quy định.
+
+Sáng cùng ngày, cơ quan điều tra cũng khởi tố bị can, bắt tạm giam ông Nguyễn Thành Tài - cựu phó chủ tịch UBND TP.HCM nhiệm kỳ 2011-2015, cùng về tội danh trên.
+
+Đồng thời Cơ quan điều tra cũng khởi tố thêm 2 bị can: Đào Anh Kiệt, nguyên giám đốc Sở Tài nguyên môi trường TP.HCM và Trương Văn Út, nguyên phó trưởng phòng quản lý đất cũng thuộc sở này.
+
+Cơ quan điều tra đã thực hiện lệnh bắt tạm giam ông Kiệt và ông Út. Riêng ông Nam được cho tại ngoại, áp dụng lệnh cấm đi khỏi nơi cư trú.
+Khởi tố ông Nguyễn Hoài Nam - bí thư Quận ủy Quận 2 - Ảnh 2.
+
+Từ trái sang: ông Nguyễn Thành Tài, Đào Anh Kiệt, Trương Văn Út - Ảnh: Bộ Công an
+
+Theo thông tin từ Bộ Công an, Cơ quan Cảnh sát điều tra của bộ đã tiến hành điều tra vụ án ""Vi phạm các quy định về quản lý đất đai"" xảy ra tại TP.HCM, theo Quyết định khởi tố vụ án hình sự số 42/QĐ-C01-P4 ngày 8-11.
+
+Quá trình điều tra mở rộng vụ án ""Vi phạm các quy định về quản lý đất đai"" xảy ra tại TP.HCM liên quan đến khu đất 2-4-6 Hai Bà Trưng, quận 1, TP.HCM, ngày 8-12, Cơ quan cảnh sát điều tra đã thực hiện các lệnh khởi tố các bị can trên.
+
+Cơ quan CSĐT Bộ Công an đang tiến hành điều tra mở rộng vụ án, làm rõ toàn bộ sai phạm của các cá nhân có liên quan tại các sở, ban, ngành của TP.HCM, Bộ Công thương để xử lý nghiêm theo quy định của pháp luật.
+
+Theo nguồn tin của Tuổi Trẻ Online, sáng cùng ngày Cơ quan Cảnh sát d9iều tra Bộ Công an đã khám xét nơi làm việc của ông Nam tại Quận ủy quận 2. Việc khám xét kết thúc vào khoảng 10h sáng.
+Khởi tố ông Nguyễn Hoài Nam - bí thư Quận ủy Quận 2 - Ảnh 3.
+
+Khu đất số 8-12 đường Lê Duẩn quận 1, TP.HCM - Ảnh: QUANG ĐỊNH
+
+Trước đó, Thanh tra Chính phủ đã có kết luận thanh tra về việc thực hiện dự án đầu tư xây dựng khách sạn cao cấp, thương mại, dịch vụ, căn hộ cho thuê tại số 8-12 Lê Duẩn, quận 1, TP.HCM.
+
+Khu đất này có diện tích gần 5.000m2 thuộc sở hữu nhà nước, được giao cho Công ty TNHH MTV quản lý kinh doanh nhà TP.HCM quản lý, cho thuê.
+
+Thanh tra chính phủ khẳng định UBND TP giao, cho thuê khu đất 8-12 Lê Duẩn không qua đấu thầu, đấu giá là vi phạm Luật đầu tư và Luật quản lý tài sản nhà nước.
+
+Ngoài ra, khu đất cũng được giao và cho thuê không đúng đối tượng, doanh nghiệp thực hiện dự án được giao không đủ năng lực tài chính…
+
+Thanh tra Chính phủ khẳng định những sai phạm của UBND TP.HCM và các sở, ngành và các doanh nghiệp liên quan là có dấu hiệu của việc cố ý làm trái quy định của Nhà nước cần phải được xử lý trách nhiệm một cách nghiêm túc…
+
+Từ đó, cơ quan thanh tra kiến nghị Thủ tướng chỉ đạo chủ tịch UBND TP.HCM thu hồi toàn bộ khu đất số 8-12 đường Lê Duẩn để thực hiện đấu giá quyền sử dụng đất theo quy định nhằm giữ kỷ cương pháp luật và tăng thu cho ngân sách.",tuoitre.vn,0.25,0.42609587,0.38860276341438293,Real,Real
+'Nhật Bản cấm dùng lò vi sóng' là tin giả,,"Chị Hiền, 32 tuổi, hoảng hốt khi đọc trên Facebook rằng Nhật Bản cấm lò vi sóng, nhưng hỏi bạn bè làm về điện tử, không ai biết việc này.
+Theo đường link chị Hiền đọc, thông tin này xuất hiện vào cuối tháng 8 trên một trang Facebook đang có gần một triệu người thích và theo dõi. Hiện bài đăng đã thu hút gần 2.000 lượt chia sẻ và hơn 600 bình luận từ người dùng. Hầu hết ý kiến đều không tin vào thông tin này, nhưng nhiều người khác dường vẫn như tin tưởng vào câu chuyện.
+Các bài đăng về lò vi sóng trên mạng xã hội không phải là mới. Hồi tháng 5, trang kiểm chứng thông tin Snopes đã xác minh và cho biết tin đồn bắt nguồn từ một trang web của Nga. Trang này đăng một bài nói rằng Nhật Bản sẽ bỏ lò vi sóng vào năm 2020. Tuy nhiên, đây là một ấn phẩm châm biếm. Trang web này đã tuyên bố từ chối trách nhiệm ở cuối bài viết, nói rằng ""tất cả nội dung trên trang đều không phải là tin tức thực tế"". Tuy nhiên, điều này không ngăn được thông tin sai lệch bị lan truyền trên các mạng xã hội, gây hoang mang cho người dùng. Snopes cho hay, bài báo từ website châm biếm của Nga đã được dịch ra nhiều ngôn ngữ khác nhau kể từ khi xuất hiện. ""Tuy nhiên, bất kể bạn nghe ngôn ngữ nào, tin đồn Nhật Bản cấm lò vi sóng vào năm 2020 là sai sự thật"", Snopes nhấn mạnh.
+Thực tế, các trang web của Bộ Y tế, bộ Lao động và Phúc lợi Nhật Bản không đưa bất kỳ lệnh cấm nào liên quan đến lò vi sóng.
+Lò vi sóng là một thiết bị ứng dụng vi sóng để làm nóng hoặc nấu chín thức ăn. Theo Tổ chức Y tế Thế giới (WHO), quan niệm thực phẩm nấu trong lò vi sóng trở thành ""chất phóng xạ"" là sai lầm. ""Thiết kế của lò vi sóng đảm bảo rằng các vi sóng chỉ tồn tại bên trong lò và xuất hiện khi nó được bật cùng cửa đóng. Rò rỉ vi sóng xung quanh và thông qua cửa kính bị giới hạn ở mức thấp hơn mức khuyến nghị theo tiêu chuẩn quốc tế"", WHO viết. ""Tuy nhiên, người dùng nên sử dụng theo hướng dẫn của nhà sản xuất và thường xuyên kiểm tra để đảm bảo thiết bị luôn trong tình trạng tốt"".
+Ngọc Bình",vnexpress.net,0.25,0.5106001,0.38860276341438293,Real,Real
+"Con gái chính là người tình kiếp trước của cha 
+ Cách yêu thương của cha dành cho con gái thật vô cùng đặc biệt và ấm áp.
+
+Câu nói ""con gái là người tình kiếp trước của cha"" để chỉ mối quan hệ thân thiết, gắn bó giữa cha và con.
+
+
+So với mẹ, cha thường ít thể hiện tình cảm hơn, đặc biệt là khi đã lớn nên chúng ta luôn có cảm giác xa cách.
+
+
+Thế nhưng, dù không nói ra thì cha vĩnh viễn là người đàn ông bao dung, yêu thương và mang đến cho bạn những điều tốt đẹp nhất.
+
+
+Sự kết nối giữa cha và con gái là thứ tình cảm không thể phá vỡ.
+
+
+Cái được gọi là “yêu từ cái nhìn đầu tiên” của cha dành cho con luôn vĩnh viễn.
+
+
+Con là một công chúa, không phải vì con có một hoàng tử mà bởi cha con là 1 vị vua.
+
+
+Trên mỗi bước chân con đi đều có cha dõi theo.
+
+
+Cha sẽ bảo vệ con khỏi những tổn thương và bất hạnh bằng tất cả sức lực của mình.
+
+
+Có thể cha chưa đủ khéo, nhưng sẵn sàng làm tất cả cho con từ những việc nhỏ nhặt nhất.
+
+
+Cha vừa là vệ sĩ vừa là người bạn trung thành.
+
+
+Mọi khoảnh khắc bên cha đều thật dễ thương.
+",,"Thế nhưng, dù không nói ra thì cha vĩnh viễn là người đàn ông bao dung, yêu thương và mang đến cho bạn những điều tốt đẹp nhất.",2sao.vn,0.7,0.5607762,0.38860276341438293,Fake,Fake
+"Lớn lên, con sẽ lấy một người chồng giống bố",,"Ai đó đã từng nói rằng: “Con gái chính là tình nhân kiếp trước của bố”. Con không biết điều đó có chính xác hay không, nhưng khi nghĩ tới bố thì con đã tin hoàn toàn.
+Từ nhỏ cho đến lớn, con lúc nào cũng thân thiết với mẹ hơn bố. Lúc nhỏ, con còn rất “sợ” bố, nhất là ánh nhìn nghiêm khắc của người. Chẳng cần dùng đến roi vọt, cũng chẳng cần mắng mỏ, chỉ cần bố nhìn con theo kiểu “hình viên đạn” là con chẳng dám ho he gì nữa. Đi với mẹ thì có thể mè nheo, khóc nhè, đòi cái nọ, vòi vĩnh cái kia, nhưng đi với bố thì không-bao-giờ. Dường như cứ ở cạnh bố là con lại tự động ngoan ngoãn đi vào cái khuôn khổ mà bố đã “thiết quân luật” ngay từ lúc nhỏ.
+Khuôn khổ mà bố đặt ra là những điều cực kì khó chịu với mọi đứa trẻ. Từ chuyện phải chào hỏi mọi người thế nào, giúp đỡ mẹ việc nhà ra sao… Ngay cả những hành động nhỏ, những tật xấu nhỏ xíu xiu của con cũng bị bố mang ra uốn nắn. Với con, đó đúng là những “cực hình”.
+Lớn hơn một chút, mọi vấn đề, mọi thắc mắc hay chia sẻ, con đều chỉ nói với mẹ. Con vẫn “sợ” bố như ngày trước, dù bây giờ có đỡ hơn chút ít. Nhưng quan trọng hơn, con nghĩ rằng cách làm nghiêm khắc mà bố thường áp dụng với con không phải là cách tốt cho con lúc này.
+Nếu không để ý, có lẽ con đã nghĩ rằng bố chẳng hề quan tâm gì tới con. Và hình như giữa hai bố con mình chẳng có sự gắn kết nào cả.
+Nhưng không, thực tế thì bố vẫn luôn yêu con theo cách của riêng mình.
+Bố sử dụng ánh mắt “hình viên đạn” là vì bố không muốn dùng roi vọt với con. Và thực tế là từ nhỏ cho tới lớn, bố chưa từng đánh con lần nào, dù chỉ là một cái đánh rất nhẹ.
+Bố vẫn luôn dõi theo con, dõi theo từng suy nghĩ, từng khó khăn trong cuộc sống, từng thay đổi của lứa tuổi mới lớn mà con gặp phải. Mọi chuyện con kể với mẹ, thực ra bố đều biết hết, chỉ là bố không nói ra mà thôi.
+Bố dạy con từ những chuyện lớn cho tới những điều nhỏ nhặt nhất. Con cũng không để ý rằng từ lúc nào, những đức tính của bố dần ngấm vào người con. Con cẩn thận hơn khi làm mọi việc, luôn lễ phép và hòa đồng với tất cả mọi người, luôn có trách nhiệm với mọi việc làm của mình, giúp đỡ những người nghèo khổ hơn mình… Những việc bố đã làm, đến giờ con vẫn nhớ như in. Và điều đó không cho phép con làm sai lời bố dặn.
+Và con đã tự nhủ: “Lớn lên, con sẽ lấy một người chồng giống bố”.
+Dù có đôi lúc, bố hơi bảo thủ một chút, hơi khó tính một chút. Có đôi lúc, những lời nghiêm khắc mà bố nói cũng có thể khiến con phát khóc. Dù bố chẳng bao giờ nói yêu con, thậm chí những điều bố làm còn dễ khiến con hiểu lầm bố. Bố thật sự không phải một người đàn ông hoàn hảo, nhưng con vẫn “quyết định” sẽ lấy một người đàn ông giống bố. Bởi quan trọng hơn cả, đó là tình yêu to lớn mà bố dành cho con gái.
+Ai đó đã từng nói rằng: “Con gái chính là tình nhân kiếp trước của bố”. Con không biết điều đó có chính xác hay không, nhưng khi nghĩ tới bố thì con đã tin hoàn toàn.
+Cảm ơn bố rất nhiều, vì tất cả những gì mà bố đã, đang và sẽ làm cho con gái.",blogxcy.wordpress.com,0.45,0.5690727,0.38860276341438293,Fake,Fake
+"Thương em bị mẹ vợ đoạ đày, anh trai gây án giết người",,"Vụ cháy bí ẩn thiêu chết cô gái trên giường / Đường dây đánh bạc trực tuyến hơn 60 tỷ USD mỗi tháng ở Trung Quốc
+Năm 2012, một cảnh kì lạ xảy ra trong trại tạm giam huyện Lục Lương, tỉnh Vân Nam, Trung Quốc. Vợ chồng người nhà nạn nhân quỳ xuống lạy một phạm nhân và người này cũng quỳ lạy lại. Hơn nữa, phạm nhân không ngừng an ủi, dặn dò hai vợ chồng phải cố gắng làm ăn, phải sống thật tốt, không được suy nghĩ nhiều. Nguyên nhân câu chuyện bắt đầu từ mùa hè một năm trước.
+Góa phụ có thai bị sát hại trong nhà con rể Người nhà nạn nhân và kẻ sát nhân gặp nhau trong tù.
+Đêm 8/6/2011, hỏa hoạn xảy ra ở phòng ngủ ngôi nhà cấp bốn tại thôn Bùi, huyện Lục Lương. Lực lượng cứu hỏa mất hơn một tiếng mới dập tắt được đám cháy. Toàn bộ đồ đạc bị thiêu rụi.
+Chủ nhà là vợ chồng Quế Hiểu Tần - Vân Hà, sống cùng mẹ chị Hà là Bảo Tú Thanh. Nhưng trong nhà lúc này không có ai. Vụ cháy chỉ xảy ra trong một phòng ngủ, không lan ra bên ngoài. Cảnh sát tìm được nhiều mảnh vỏ chai thủy tinh vỡ và vỏ một chiếc bật lửa gas trong phòng. Tiếp tục tìm kiếm dưới đống tro tàn, cảnh sát phát hiện một thi thể cháy đen.
+Người chết được xác định là bà Thanh. Thi thể bà có nhiều nghi vấn vì tư thế như đang nằm ngủ, không có phản ứng khi bị đốt cháy. Xương cuống lưỡi bị gãy, đường hô hấp không có tro bụi và khói đen, chứng tỏ nạn nhân bị bóp cổ chết rồi đốt xác phi tang.
+Đồ đạc trong phòng khách và phòng ngủ còn lại không bị mất hay có dấu hiệu bị lục lọi. Đúng hôm xảy ra án mạng, vợ chồng Tần biến mất. Kết quả điều tra cho thấy Tần có nhiều điểm đáng ngờ.
+Bà Thanh được những người trong thôn đánh giá là người biết điều, không có mâu thuẫn với ai. Nhưng đó là đối với người ngoài, mỗi khi về nhà, bà Thanh lại như biến thành người khác. Bà thường xuyên mâu thuẫn với con gái và con rể, chửi mắng bằng lời cay nghiệt. Hàng xóm tiết lộ một thông tin khiến cảnh sát kinh ngạc, bà Thanh đã có thai hơn hai tháng, nhưng không ai biết cha đứa bé là ai. Là mẹ vợ song bà Thanh mới 39 tuổi, vẫn còn có chút nhan sắc.
+Trước việc mẹ vợ cùng con gái và con rể, lại thường xuyên mâu thuẫn với con gái, cảnh sát đưa ra giả thiết: Bà Thanh và con rể nảy sinh một số việc trái với luân thường đạo lý. Con gái biết việc này nên ghen, vì thế hai mẹ con thường xuyên cãi nhau. Mâu thuẫn lên đến đỉnh điểm khi bà Thanh có thai, Tần và Hà buộc phải sát hại bà Thanh rồi bỏ trốn.
+Trên thực tế, sáng hôm sau khi xảy ra vụ cháy, vợ chồng Tần mới về nhà. Khi biết tin nhà cháy, việc đầu tiên Hà hỏi là tình hình ngôi nhà thế nào chứ không phải mẹ mình có làm sao không. Vì thế, cảnh sát càng thêm nghi ngờ. Nhưng tối hôm trước Tần và Hà về nhà bà ngoại chơi và ngủ lại, có nhiều người làm chứng nên được loại khỏi diện tình nghi.
+Việc điều tra được mở rộng. Cảnh sát được biết bà Thanh là người lận đận đường chồng con. Bà lấy chồng năm 17 tuổi, không lâu thì thành goá phụ. Tái giá không được bao lâu thì người chồng thứ hai đòi ly hôn. Mới 19 tuổi bà đã lấy đến người chồng thứ ba, nhưng cũng chỉ được gần hai năm. Ông này chết trong tai nạn xe máy, để lại cho bà đứa con gái hơn một tuổi là Hà. Sau đó bà Thanh bỏ đi biệt xứ, thỉnh thoảng mới về nhà. Hà được bà ngoại nuôi từ nhỏ, đến năm 16 tuổi thì lấy chồng.
+Hai vợ chồng mới cưới nhau vài tháng, bà Thanh bỗng quay về ở lì trong nhà. Sống với gia đình con song bà Thanh không làm việc nhà còn suốt ngày đòi tiền. Các con nếu không đưa sẽ bị chửi mắng rất khó nghe.
+Hàng xóm cho biết, bà Thanh thường xuyên ra sân chống nạnh chửi con cả tiếng đồng hồ, có hôm từ nửa đêm đến hai giờ sáng. Nhiều người khuyên bảo nhưng bà không có biến chuyển.
+Một ngày trước vụ án, bà Thanh nói với các con là đã có thai hơn hai tháng, nhưng không chịu nói ""tác giả"" là ai. Bà còn nói hai người đang tính chuyện sống chung, nhưng không phải bà chuyển ra ngoài mà là đưa người đàn ông kia về sống. Kể cả sau này ra ở riêng, bà cũng để con lại cho vợ chồng Hà nuôi. Bà Thanh không xấu hổ vì chuyện này mà còn đi khoe khắp làng khắp xóm chuyện có thai. Vì chuyện này, hai mẹ con bà Thanh cãi nhau kịch liệt, hôm sau vợ chồng Hà mới về nhà bà ngoại khóc lóc kể khổ.
+Cảnh sát chia ra hỏi thăm mọi người trong thôn. Một người nói tối hôm xảy ra vụ án có nhìn thấy anh trai của Tần là Quế Hiểu Lâm đến nhà vợ chồng Tần. Khi gặp Lâm, cảnh sát thấy trên mặt có vết cào cấu. Lâm nhanh chóng khai nhận đã giết bà Thanh.
+Theo Đài truyền hình Quý Châu, tất cả mọi người trong thôn đều không tin Lâm là kẻ giết người. Lâm là người tốt nổi tiếng trong thôn, có thể nói từ nhỏ chỉ làm việc lương thiện. Trời mưa làm đường lầy lội khó đi, Lâm chở đất đá đến đổ xuống vũng nước san đường. Đường sá trong thôn được như bây giờ đều là nhờ công sức của Lâm. Nhà ai có công việc gì, Lâm đều đến giúp nhiệt tình không tính toán. Các công việc chung trong thôn, Lâm luôn tham gia từ đầu đến cuối. Tại sao một người tốt như vậy lại phạm tội giết người? Không lẽ Lâm chính là tác giả của cái thai trong bụng bà Thanh?
+Theo điều tra của cảnh sát, từ khi bà Thanh và vợ chồng Tần - Hà bắt đầu xích mích, Lâm đến khuyên can nhưng không có hiệu quả. Ngày 18/6, Lâm nghe nói bà Thanh có thai nên khoảng 9h tối đến nhà của em tìm hiểu tình hình, không ngờ lúc này chỉ có một mình bà Thanh ở nhà.
+Lâm khuyên bà Thanh đi phá thai, đừng làm khổ con gái nữa, nhưng bị thách thức và chửi thậm tệ. Không thể kiềm chế được, Lâm bóp cổ bà Thanh, sau đó tìm can dầu hỏa trong bếp lên đổ khắp phòng ngủ và châm lửa đốt.
+Năm 2012, Lâm bị kết án chung thân.
+Khang Diệp",vnexpress.net,0.0,0.49371064,0.38860276341438293,Real,Real
+"Bà cụ 92 vẫn mang thai, tá hỏa đưa đi khám mới phát hiện sự thật động trời sau 50 năm",,"(Blogtamsu)  - Ai cũng phải kinh ngạc khi biết nguyên nhân bà cụ 92 tuổi vẫn có thể mang thai.
+
+Cộng đồng my nguyen 27-08-2017
+
+Thực tế, hiếm có cụ bà nào ở ngưỡng tuổi gần đất xa trời lại có thể mang thai. Ấy vậy mà trường hợp một cụ bà dù đã 92 tuổi vẫn có kết quả siêu âm mang thai khiến bác sĩ cũng phải kinh ngạc.
+
+Cụ bà Estela Melendez, 92 tuổi sinh sống một thị trấn nhỏ thuộc vùng La Boca, Chile cho biết bà bị ngã nên đã đến bệnh viện chụp X-quang, siêu âm và kiểm tra sức khỏe. Tuy nhiên, kết quả kiểm tra khiến ai cũng phải kinh ngạc vì bác sĩ phát hiện trong bụng bà Estela Melenadez có một bào thai kì lạ.
+
+
+Cụ bà 92 tuổi mang bào thai sống trong bụng hơn 50 năm khiến ai cũng kinh ngạc.
+
+Xem Thêm:
+
+Bộ ảnh biếm họa về cuộc sống khiến dân mạng đau đầu giải nghĩa nhưng ai cũng muốn xem
+
+Bà Estela cho biết trước đây bản thân bị một khối u nhỏ trong bụng. Do biết là u lành tính không gây nguy hiểm đến sức khỏe nên bà cũng không đi phẫu thuật trong mấy chục năm qua. Nhưng bà chưa bao giờ biết rằng bản thân mang thai.
+
+Điều kì lạ là, thai nhi bị vôi hóa nằm trong tử cung của bà hơn 60 năm không hề gây nguy hiểm đến sức khỏe của bà cụ. Thông tin này thật sự là một cú sốc với cụ Melendez. Chồng cụ Melendez đã mất cách đây mấy chục năm. Điều đau buồn nhất là hai vợ chồng cụ đã bên nhau nửa quãng đời nhưng lại chẳng thể có được nổi một đứa con.
+
+Cứ nghĩ rằng họ không thể con con nên sau khi cụ ông qua đời bà Melendez cũng cứ ở vậy cho đến khi phát hiện bản thân mang thai trong hơn 60 năm. Cụ bà tin rằng đó là món quà cụ ông dành tặng cho bà trước khi qua đời, là sinh mệnh sống với bà hàng chục năm qua nên bà không muốn phải phẫu thuật loại bỏ bào thai này.
+
+
+Bà cụ không muốn bỏ bào thai vì vẫn tin tưởng đó là món qua chồng bà tặng bà trong mấy chục năm qua.
+
+Nguyện vọng của cụ bà cũng được các bác sĩ chấp thuận bởi trường hợp phẫu thuật loại bỏ thai nhi cho bà cụ hơn 90 tuổi sẽ gặp nguy hiểm cao hơn là họ không làm gì. Dù sao, bào thai này cũng không gây nguy hiểm đến tính mạng hay sức khỏe của cụ bà.
+
+Xem Thêm:
+
+Từng ép bạn gái đi phá thai, chàng trai không ngờ 10 năm sau mình phải nhận quả báo đau đớn thế này
+
+Nguồn: Liekr
+
+
+Nghi Ân/Theo Thethaovaxaohoi.vn",thoibao.today,0.45,0.5367542,0.38860276341438293,Real,Fake
+"Quên khóa ô tô, nữ tài xế bị ""khoắng"" sạch tài sản",,"Lâm Đồng:
+Ngày 9/12, Công an TP Đà Lạt (Lâm Đồng) cho biết, đang tạm giữ hình sự và tiếp tục củng cố hồ sơ để xử lý vụ “Trộm cắp tài sản – Tàng trữ trái phép chất ma túy” đối với Hoàng Hồ Dũng (39 tuổi) và Trần Ngọc Hiển (31 tuổi, cùng ngụ tại phường 6, TP Đà Lạt).
+Đối tượng Hiển tại cơ quan công an
+Trước đó, Dũng chở Hiển bằng xe máy lưu thông trên đường Hùng Vương (phường 10, TP Đà Lạt). Khi đến trước 1 nhà hàng trên thì phát hiện có 1 phụ nữ từ xe ô tô 7 chỗ đi vào nhà hàng.
+Dũng rủ Hiển trộm cắp tài sản trên xe. Phát hiện ô tô không khóa cửa, Dũng thò tay vào lấy trộm chiếc túi xách.
+Sau đó, cả 2 chạy đến nghĩa trang Thái Phiên (phường 12) kiểm tra túi xách, phát hiện bên trong có 33 triệu đồng. Tại đây, 2 người chia nhau mỗi người 15 triệu đồng.
+Đối tượng Dũng đang thực hiện lại hiện trường vụ trộm cắp tài sản
+Còn lại 3 triệu đồng, cả hai rủ nhau đi huyện Lâm Hà (Lâm Đồng) mua heroin rồi ra một bãi đất trống sử dụng một ít, số heroin còn lại cả 2 chia đôi cất trong người.
+Nhận được tin báo, Công an TP Đà Lạt tổ chức truy tìm và bắt giữ được 2 đối tượng. Tại cơ quan điều tra, cả hai đã thừa nhận hành vi của mình.
+Hiện lực lượng công an đang củng cố hồ sơ để xử lý hình sự 2 đối tượng trên.
+N. Hà",dantri.com.vn,0.25,0.42479005,0.38860276341438293,Real,Real
+Nhiều trường ở TP HCM thu sai quỹ hội phụ huynh,,"Chiều 31/10, sau buổi giám sát về các khoản đóng góp theo quy định và quỹ do Ban đại diện cha mẹ học sinh (thường được gọi là hội phụ huynh) tại trường THPT Nguyễn Hiền, bà Triệu Lệ Khánh (Phó chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP HCM) cho biết, qua khảo sát và làm việc với 8 trường, đoàn chưa phát hiện sai phạm nghiêm trọng trong thu chi, quản lý tài chính và quỹ hội phụ huynh.
+Tuy nhiên, một số trường đã làm sai Thông tư 55 quy định điều lệ hoạt động của Ban đại diện cha mẹ học sinh. Đoàn sẽ có tổng kết gửi về UBND thành phố và Sở Giáo dục.
+Theo bà Khánh, các trường này đã ""đổ đầu"" những khoản thu tự nguyện, dù quy định của thông tư là ""thực hiện trên tinh thần tự nguyện, không cào bằng, ép buộc"".
+Trước đó, đoàn giám sát đã nhắc nhở trường THPT Thủ Thiêm khi ấn định mức thu 300.000 đồng mỗi học sinh. Trong đó 100.000 đồng là quỹ hoạt động cha mẹ học sinh, còn lại là quỹ tài trợ trường.
+Trường THPT Thủ Thiêm (quận 2, TP HCM). Ảnh: Mạnh Tùng.
+Tương tự, Ban đại diện cha mẹ trường tiểu học Nguyễn Thái Học cũng đưa ra mức bình quân 250.000 đồng cho mỗi phụ huynh. Trường cũng dùng các khoản đóng góp để thay dây điện, lắp camera... lẽ ra phải sử dụng nguồn tài trợ.
+Nguyên nhân được cho là hội phụ huynh chưa nắm rõ hoặc hiểu sai các quy định về tổ chức, hoạt động của chính mình.
+""Khi vận động không đảm bảo, khen thưởng cho con em không đủ nên nhiều trường mới ấn định. Chúng tôi đã lưu ý các trường và ban đại diện cha mẹ học sinh việc này"", bà Khánh cho biết.
+Nói về dư luận gần đây rộ lên đề xuất bỏ hội phụ huynh, bà Khánh cho rằng ""đó chỉ là ý kiến của số ít cha mẹ học sinh"".
+Theo Phó chủ tịch Ủy ban Mặt trận Tổ quốc TP HCM, việc giáo dục phải có ba nhánh: nhà trường, gia đình và xã hội. Hội phụ huynh là cầu nối giữa nhà trường và gia đình, là nhân tố quan trọng phải duy trì, không thể bỏ.
+Trong khi đó, người đồng cấp với bà Khánh, ông Vũ Thanh Lưu (trưởng đoàn giám sát của Ủy ban Mặt trận Tổ quốc Việt Nam TP HCM khác) cho biết, việc kiểm tra, hướng dẫn quỹ hội phụ huynh ở các quận, huyện hiện bỏ trống khá nhiều.
+""Nhiều trường làm đúng cũng không biết mình làm có đúng không, nhiều trường làm sai cũng không biết mình sai. Thông tư 55 về Ban đại diện cha mẹ, nhiều đơn vị không nắm hết được"", ông Lưu nói.
+Hôm 21/9, ông Võ Quốc Bình (40 tuổi, phụ huynh học sinh trường Tiểu học Hòa Bình, quận 1) đã gửi đơn lên chính quyền TP HCM và cơ quan quản lý giáo dục đề nghị giải tán Ban đại diện cha mẹ học sinh.
+Ông Bình cho rằng, hoạt động của hội phụ huynh càng ngày càng biến tướng, lạm quyền và đang dần trở thành ""hội phụ thu"". Động thái của người cha này làm dấy lên tranh luận giữ hay bỏ hội phụ huynh.
+Thành ủy TP HCM sau đó đã chỉ đạo chính quyền và ngành giáo dục chấn chỉnh tình trạng lạm thu đầu năm học.",vnexpress.net,0.0,0.45494592,0.38860276341438293,Real,Real
+Cô giáo ở Quảng Bình bắt trò tát bạn học 230 cái,,"Sáng 24/11, ông Phạm Minh Cảnh, Chủ tịch xã Duy Ninh (Quảng Ninh, Quảng Bình) cho hay, đã nhận được tường trình của giáo viên Nguyễn Thị Phương Thủy, trường THCS Duy Ninh, về việc phạt học trò 230 cái tát.
+Ông Cảnh nói sự việc này ảnh hưởng nghiêm trọng đến ngành giáo dục, yêu cầu nhà trường họp phụ huynh, thăm hỏi và động viên nam sinh trở lại trường, đồng thời xử lý nghiêm với giáo viên.
+Trường THCS Duy Ninh ở xã Duy Ninh (Quảng Ninh, Quảng Bình).
+Ngày 19/11, nam sinh lớp 6.2 nói tục trong giờ ra chơi và bị Đội Cờ đỏ ghi lại. Cô chủ nhiệm Phương Thủy phát hiện, yêu cầu 23 bạn cùng lớp tát vào má em vi phạm, mỗi người 10 cái. Học sinh phản ánh, nếu tát nhẹ thì bị cô giáo phạt ngược lại.
+Sau hôm đó, nam sinh phải vào Bệnh viện đa khoa Dinh Mười (huyện Quảng Ninh) vì hai má sưng, tâm lý hoảng sợ. Đến cuối tuần này, em đã trở về nhà nhưng chưa trở lại trường.
+Trong bản tường trình, cô chủ nhiệm giải thích muốn nam sinh tốt lên nên áp dụng hình phạt. Cô giáo đã nhận ra khuyết điểm, xin lỗi gia đình học sinh.
+Lớp 6.2 có 27 học sinh, thời điểm cô Phương Thủy kỷ luật nam sinh có 3 em được cho về nhà lấy vở bài tập.",vnexpress.net,0.0,0.46953636,0.38860276341438293,Real,Real
+"Bị cảnh báo giả, khách trên máy bay TP.HCM đi Hà Nội hoảng sợ",CÔNG TRUNG,"TTO - Chuyến bay VJ198 của Hãng Vietjet Air tối 19-11 khiến hàng trăm hành khách đã hoảng hốt khi bay vòng hơn 30 phút và quay đầu hạ cánh khẩn cấp xuống sân bay Tân Sơn Nhất, trong khi lịch trình bay đến Hà Nội.
+
+    Vietjet vượt Vietnam Airlines về lợi nhuận hàng không
+    Máy bay Vietjet đi Hàn Quốc nhưng hạ cánh ở Hong Kong
+    Vietjet đội sổ chậm chuyến, Vietnam Airlines dẫn đầu hủy chuyến
+
+Bị cảnh báo giả, khách trên máy bay TP.HCM đi Hà Nội hoảng sợ - Ảnh 1.
+
+Hành khách trên chuyến bay VJ198 của Vietjet thực hiện quy tắc an toàn trong điều kiện khẩn cấp theo hướng dẫn của nhân viên hàng không - Ảnh: Đ.H
+
+Sự cố này khiến hàng trăm hành khách trên chuyến bay của Vietjet đã không còn giữ bình tĩnh khi được cơ trưởng thông báo trở lại sân bay Tân Sơn Nhất vì máy bay lỗi kỹ thuật. 
+
+Nhiều hình ảnh lan truyền trên mạng xã hội của những hành khách đi trên chuyến bay này ghi lại cho thấy hình ảnh ôm đầu, chắp tay cầu nguyện... 
+
+Kiểm tra trên trang web dữ liệu chuyến bay từ Flightradar24 với chuyến bay VJ198 của Vietjet cho thấy máy bay này đã đạt tới độ cao 11.000 feet trước khi phát hiện sự cố và phải hạ độ cao về khoảng 5.000 feet để thực hiện bay khoảng 5 vòng lớn trên trời trong khoảng 30 phút và hạ cánh an toàn xuống sân bay Tân Sân Nhất lúc 20h06 phút.
+
+Theo tìm hiểu của chúng tôi, đây là máy bay Airbus A320, số hiệu VJ198, số đăng bạ VN-A680 được thuê lại để phục vụ dưới đội hình Vietjet từ tháng 5-2013.
+
+Lý giải sự cố này, đại diện Vietjet Air cho biết chuyến bay VJ198 khởi hành từ TP.HCM đi Hà Nội lúc 19h05 ngày 19-11, sau 10 phút cất cánh, phát hiện cảnh báo kỹ thuật, cơ trưởng đã quyết định cho máy bay quay lại sân bay Tân Sơn Nhất kiểm tra. 
+
+Sau khi kiểm tra xác định cảnh báo kỹ thuật là giả, máy bay đã trở lại khai thác bình thường.
+
+Cùng thời điểm, để hạn chế thời gian chờ đợi, tất cả hành khách trên chuyến bay đã được bố trí lên một chuyến bay khác để tiếp tục hành trình. 
+
+Đại diện Vietjet khẳng định hàng không là phương tiện di chuyển đòi hỏi tiêu chuẩn kỹ thuật nghiêm ngặt để đảm bảo an toàn cho hành khách.
+
+Đáng lưu ý, ngày 30-10 chuyến bay VJ982 của Hãng Vietjet Air có hành trình từ Hà Nội đi Busan (Hàn Quốc) nhưng máy bay lại hạ cánh ở sân bay Hong Kong, nguyên nhân được giải thích vẫn là ""cảnh báo giả"". ",tuoitre.vn,0.45,0.45735976,0.38860276341438293,Real,Real
+Ôtô đi ngược chiều bị phạt 800.000 đồng,,"Theo khoản 1 Điều 9 Luật Giao thông đường bộ năm 2008, người tham gia giao thông phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ.
+Theo điểm i, khoản 4 Điều 6 Nghị định 46/2016/NĐ-CP, người điều khiển xe máy đi vào đường cấm, khu vực cấm; đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” (trừ trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định) bị phạt tiền từ 300.000 đến 400.000 đồng đối với mỗi hành vi vi phạm.
+Theo điểm c khoản 12 Điều 6, nếu người thực hiện hành vi vi phạm nêu trên mà gây tai nạn giao thông thì ngoài việc bị phạt tiền còn bị áp dụng các hình thức xử phạt bổ sung là tước quyền sử dụng Giấy phép lái xe từ 2 tháng đến 4 tháng.
+Đối với ôtô, theo điểm b, khoản 4 Điều 5, hành vi đi vào đường cấm, khu vực cấm; đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều” (trừ các xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định) thì bị phạt tiền từ từ 800.000 đến 1.200.000 đồng.
+Theo điểm b khoản 12 Điều 5, ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung là bị tước quyền sử dụng Giấy phép lái xe từ 1 tháng đến 3 tháng.
+Trường hợp điều khiển ôtô đi ngược chiều trên đường cao tốc thì theo điểm a khoản 8 Điều 5 Nghị định 46/2016/NĐ-CP, sẽ bị phạt tiền từ từ 7.000.000 đến 8.000.000 đồng. Theo điểm đ khoản 12 Điều 5, ngoài việc bị phạt tiền, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung là bị tước quyền sử dụng Giấy phép lái xe từ 4 tháng đến 6 tháng.
+Luật sư Kiều Anh Vũ
+Văn phòng Luật sư Lê Nguyễn, TP HCM",vnexpress.net,0.0,0.47448552,0.38860276341438293,Real,Real
+"Tưởng cả trăm con rắn bò vào nhà trả thù, chàng trai kinh hãi tột độ khi thấy cảnh tượng chết chóc ám ảnh sau đó",,"Nhìn những xác chết ngửa cổ lên trời mà thanh niên chỉ muốn nôn ọe váng đầu vì quá sợ hãi.
+Trong một lần đến chơi nhà bạn, một chàng trai người Thái Lan đã suýt bỏ chạy mất dép khi thấy hàng trăm con rắn nằm la liệt trên sàn nhà.
+Ban đầu, chàng trai tưởng rằng gia đình bạn mình đã “đắc tội” gì đó với loài rắn nên bị chúng kéo đến trả thù…
+Biết được nỗi sợ hãi và băn khoăn của chàng thanh niên, bạn của anh đã nhanh chóng giải thích rằng gia đình mình mới trở thành lò chuyên lột da rắn.
+Hình ảnh xác rắn chất đống khiến nhiều người nổi da gà.
+Cận cảnh thịt rắn sau khi kết thúc quá trình lột da.
+Được biết nhu cầu tiêu thụ da rắn để làm phụ kiện da tại Thái Lan đang rất cao, chính vì vậy nhiều gia đình đã chuyển sang kinh doanh mặt hàng này để thu lời.
+Mặc dù vậy, chính quyền địa phương cũng khuyến cáo người dân không nên khai thác quá mức tránh tình trạng mất cân bằng hệ sinh thái trong tương lai.",tinvn.info,0.45,0.5443246,0.38860276341438293,Real,Fake
+"Chỉ vài giây dừng chờ đèn đỏ, người đàn ông này đã khiến cả quốc gia khóc thét khi tìm thấy điểm rùng rợn lấp ló trong áo",,"Nhiều người không dám ra khỏi nhà cũng chỉ vì sợ gặp phải những trường hợp như thế này đây.
+Rất nhiều cư dân mạng nước ngoài những ngày gần đây đang bị chấn động mạnh bởi một bức ảnh được chụp lại tại ngã tư. Thoạt đầu, ai cũng nghĩ đó là bức ảnh bình thường, không có gì nổi bật nhưng khi nhìn tới lần 2, ai nấy đều nổi da gà vì quá sợ.
+Trời ơi, trong vạt áo của người đàn ông đi xe máy có thứ gì kìa?
+Nếu mắt cận chưa nhìn rõ thì chỉ cần zoom lên một chút là thấy ngay thôi…
+Đó là gương mặt của một cậu bé đang lén nhìn mọi người qua lớp áo mưa. Thế nhưng, ai cũng sửng sốt vì phát hiện ra gương mặt này có chút gì đó quen thuộc. Nhìn kỹ hơn thì mới té ngửa, chẳng phải gương mặt ấy giống với cậu bé ma Toshio trong series phim kinh dị Ju-on của Nhật Bản hay sao?
+10 thì 9 người gật đầu khi cho rằng gương mặt thò ra từ lớp áo rất giống với cậu bé ma
+Bức ảnh này đã gây ra một cuộc tranh cãi dữ dội trên mạng xã hội. Một số ý kiến cho rằng có thể người đàn ông này chở theo con nhỏ và để ngồi đằng trước, vì tò mò nên cậu bé mới ló mặt ra để rồi mang tới nỗi ám ảnh cho người đi đường.
+Trong khi đó, những người khác lại khăng khăng đây chính là hiện thân của ma quỷ và chắc chắn người đàn ông này đã bị ma ám.
+Hiện tại, những tranh cãi trên vẫn đang bùng nổ trên mạng xã hội. Không ai biết được rằng ma quỷ có thật hay đây chỉ là sản phẩm của photoshop nhưng dù sao cũng làm nhiều người sởn da gà. Còn bây giờ, nếu đã ấm êm trên giường thì xin chúc bạn có một giấc ngủ thật ngon, mong là sẽ không ai gặp phải ác mộng.",tinvn.info,0.45,0.5587258,0.38860276341438293,Fake,Fake
+"CCTV: Nga 2 lần yêu cầu HĐBA họp khẩn nhưng bất thành, sẽ nộp bằng chứng ""thảm sát Bucha""",,"Đài truyền hình trung ương Trung Quốc đưa tin, vào ngày 4/4 (theo giờ địa phương), Đại sứ Nga tại Liên hợp quốc Vasily Nebenzya cho biết tại cuộc họp báo diễn ra tại trụ sở Liên hợp quốc ở New York rằng, Nga sẽ nộp bằng chứng lên Hội đồng Bảo an vào ngày 5/4 để chứng minh rằng ""thảm sát Bucha"" là một hoạt động tuyên truyền của Ukraine.
+Quan chức Nga cũng nói rằng Vương quốc Anh, chủ tịch luân phiên của Hội đồng Bảo an Liên hợp quốc, đã từ chối yêu cầu của Nga về một cuộc họp khẩn cấp, một động thái vi phạm quy tắc các chương trình nghị sự của hội đồng.
+Cùng ngày, Ngoại trưởng Nga Sergei Lavrov chia sẻ trong cuộc họp với Nhóm liên lạc về cuộc khủng hoảng Ukraine của Liên đoàn Ả rập rằng, Moscow đã nỗ lực lần 2 lần nhưng không thành công khi kêu gọi Hội đồng Bảo an Liên hợp quốc tổ chức cuộc họp về ""thảm sát Butcha"".
+Trước đó, ngày 3/4, truyền thông Ukraine đã công bố một loạt video và hình ảnh cho thấy nhiều dân thường thiệt mạng ở thành phố Butcha. Phía Ukraine cáo buộc quân đội Nga là tác giả của sự kiện này nhưng Moscow đã bác bỏ.
+https://soha.vn/cctv-nga-2-lan-yeu-cau-hdba-hop-khan-nhung-bat-thanh-se-nop-bang-chung-tham-sat-bucha-2022040511414254.htm",soha.vn,0.44,0.46120328,0.38860276341438293,Real,Fake
+Hot girl có vòng 1 tự nhiên khủng nhất châu Á phát ngôn gây sốc về lý do không bao giờ mặc hở,,"Loạt ảnh mới nhất về cô gái có vòng 1 khủng nhất Châu Á khiến cộng đồng mạng cả châu lục mắt tròn mắt dẹt, không tin vào sự thật.
+Yu Han là cô gái đang gây ra cơn sốt trên khắp châu Á vì vòng 1 tự nhiên khủng bậc nhất châu lục, cô nàng sinh năm 1995 này hiện đang sinh sống và làm việc tại Seoul
+Chỉ từ một bức hình Yu Han chụp tại tàu điện ngầm khiến cô nàng nổi như cồn trên mạng xã hội Hàn Quốc và lan sang các quốc gia khác
+Yu Han tự nhận mình là cô gái có vòng 1 tự nhiên khủng nhất châu Á và thường xuyên tung bằng chứng hình ảnh của mình lên mạng xã hội
+Một hình ảnh chụp cận cảnh khiến ai cũng cúi đầu thừa nhận về sự khủng của vòng 1 cô nàng
+Không biết rõ số đo vòng 1 nhưng bất cứ ai cũng cảm thấy nghẹt thở khi nhìn vào những bức hình của cô nàng
+Có một đặc điểm khá thú vị đối với cô gái này là cô hiếm khi mặc áo hai dậy và hở ngực vì lo lắng vòng 1 của mình sẽ tràn ra bên ngoài
+Dù kín cổng cao tường nhưng Yu Han vẫn là tâm điểm khi xuất hiện ở bất cứ đâu
+Vòng 1 quá đà khiến Yu Han có cảm giác nặng nề, khó di chuyển và không bao giờ dám chạy bộ
+Cô gái này từng nhận được rất nhiều lời mời gọi, gạ tình từ nhiều người đàn ông trên mạng xã hội
+Những tấm ảnh của cô gái luôn thu hút mọi người, dù gương mặt của Yu Han cũng giống như các hot girl tầm trung tại Hàn Quốc
+Ảnh Internet
+Ảnh Internet
+Ảnh Internet
+Ảnh Internet
+Ảnh Internet
+Ảnh Internet
+Ảnh Internet
+Ảnh Internet",tinvn.info,0.45,0.54827714,0.38860276341438293,Real,Fake
+Chiếc lốp thứ hai của máy bay Vietjet được tìm thấy,,"Máy bay Vietjet Air gặp sự cố khi hạ cánh ở Buôn Ma Thuột
+Theo đại diện Cục Hàng không, sáng 2/12, bánh máy bay thứ hai bị văng ra sau sự cố hạ cánh của Vietjet đã được tìm thấy. Do khu vực gần sân bay cỏ mọc cao, công tác tìm kiếm bị kéo dài.
+Từ thứ hai ngày 3/12, Tổ điều tra của Cục sẽ cùng chuyên gia Airbus và đại diện hãng hàng không châu Âu phối hợp phân tích dữ liệu hộp đen của máy bay.
+Máy bay hãng Vietjet khi hạ xuống sân bay không có bánh. Ảnh: Lê Văn
+Lãnh đạo Cục Hàng không đánh giá cao việc triển khai công tác khẩn nguy cứu nạn của hãng hàng không cũng như các lực lượng cứu hộ, cứu nạn tại sân bay Buôn Ma Thuột. Tổ bay đã triển khai quy trình khẩn nguy và thoát hiểm hành khách theo quy trình khai thác, đảm bảo an toàn tuyệt đối cho toàn bộ 207 hành khách. Trong khi chờ cơ quan chức năng điều tra, hai phi công và tổ tiếp viên bị đình chỉ công tác.
+Chuyến bay VJ356 của hãng hàng không Vietjet từ TP HCM đi Buôn Ma Thuột gặp sự cố lúc 23h03 ngày 29/11. Khi hạ cánh, hai bánh trước văng ra khiến càng chà xát xuống đường băng. Một bánh máy bay và hai mâm giữ bánh được tìm thấy ở khu vực bên trái đường băng số 9.
+Chuyến bay VJ356 được thực hiện bởi tàu bay A321, mới tiếp nhận từ nhà chế tạo và khai thác thương mại từ ngày 15/11.
+Đoàn Loan",vnexpress.net,0.0,0.4374222,0.38860276341438293,Real,Real
+Đường chạy của người phụ nữ cụt chân,D.KIM THOA,"TTO - Năm 19 tuổi, Alma Faz trải qua phẫu thuật cắt bỏ chân phải vì bệnh ung thư. Lúc đó, chưa bao giờ cô dám nghĩ mình lại có thể chạy được nữa. Thế nhưng giờ đây cô đang tập luyện cho cuộc thi ba môn phối hợp: bơi - đạp xe - chạy.
+
+    Bộ trưởng hotboy 25 tuổi của Malaysia rủ cấp dưới chạy bộ
+    Những bạn trẻ chạy chân trần trên đường nhựa, đường đất
+    Hành trình chinh phục đường chạy Bắc Cực của cô gái Việt Nam
+
+Đường chạy của người phụ nữ cụt chân - Ảnh 1.
+
+Alma Faz trên đường chạy - Ảnh: ALMA FAZ
+
+Trên người tôi có vô số vết sẹo, và việc mất đi một chân luôn nhắc nhở tôi mỗi ngày về những điều đã mất.
+
+Alma Faz
+
+""Đó là thời điểm chạm đáy của cuộc đời tôi: nặng 38,5kg, chỉ còn một chân, các cuộc phẫu thuật và hóa trị"", Faz nhớ lại một giai đoạn buồn ở tuổi 19 khi chia sẻ với đài CNN.
+
+Ở thời điểm ấy, thay cho những bận tâm chính của một thiếu nữ bình thường là học hành và bè bạn, trường lớp, Faz phải đối mặt với cuộc chiến sinh tử cùng căn bệnh hiểm nghèo và không biết chuyện gì đang chờ mình phía trước.
+
+Họa vô đơn chí. Sau khi phải phẫu thuật cắt bỏ chân phải không lâu, kết quả sinh thiết lại cho biết điều kinh khủng khác, Faz bị ung thư cổ tử cung giai đoạn 3. Cùng tháng 11-1997, cô gái trẻ lại trải qua ca phẫu thuật cắt bỏ các khối u ác tính rồi bắt đầu bước vào điều trị hóa chất cho cả hai căn bệnh ung thư cùng lúc.
+
+Nhưng đó là câu chuyện hai thập kỷ trước của cô gái sống tại thành phố Houston (Mỹ).
+
+""Tôi là một vận động viên. Tôi cũng từng là trưởng nhóm cổ vũ thời trung học, vậy nên tôi rất yêu thể thao"", cô kể. ""Tôi muốn học đại học, muốn gây dựng sự nghiệp. Tôi chỉ muốn làm những điều bình thường như bao người khác"", Faz nhớ lại.
+
+Thế nhưng vào thời điểm đó, bệnh tật đã buộc Faz phải nghỉ học sau khi chỉ vừa nhập học đại học được sáu tuần để điều trị hóa chất và trải qua rất nhiều ca phẫu thuật. Khi đó, thực tế phũ phàng bày ra trước mắt cô gái trẻ một câu hỏi: ""Liệu mình có sống nổi không?"".
+
+Sáu tháng sau khi phẫu thuật cắt bỏ chân phải, Faz bắt đầu tập đi lại những bước đầu tiên. Cô vẫn còn nhớ một bác sĩ từng nói với cô: ""Cháu vẫn có thể làm được mọi thứ cháu muốn trong đời. Việc điều trị chỉ là việc chúng ta cần làm để cứu sống cháu"".
+
+Cảm kích trước sự động viên của đội ngũ cán bộ y bác sĩ ở Trung tâm ung thư MD Anderson và muốn mình sống xứng đáng với những tấm lòng ấy, ra viện cô gái quyết định trở lại trường học và theo học ngành kỹ thuật viên chẩn đoán hình ảnh y học, một ngành cô đã rất thích khi phải quan sát nó suốt thời thiếu niên lúc trải qua những đợt thăm khám điều trị.
+
+Và vì chưa thể vận động được nhiều như mong muốn, nên trong thời gian đầu sau điều trị, Faz dồn tâm huyết và sức lực cho việc gây dựng sự nghiệp.
+
+""Tôi ngồi xe lăn sau phẫu thuật cắt bỏ chi, có một máy chụp CT và thấy rằng đây là việc mình muốn làm, và đây là nơi tôi muốn làm việc đó"", Faz, nay đã 39 tuổi, chia sẻ về công việc hiện tại. ""Mọi người đều rất quan tâm đến tôi. Thực sự không thể đo đếm được hết tình cảm ấy"".
+
+Cho tới nay, Faz đã làm việc tại Trung tâm ung thư MD Anderson được 15 năm và quản lý một phòng khám tiếp đón hơn 100 người bệnh mỗi ngày. ""Đã có quá nhiều người nỗ lực cứu sống tôi, vậy nên tôi nghĩ rằng một ngày nào đó mình phải làm việc để cứu sống một ai đó"", cô chia sẻ.
+
+Sau khi bị cắt bỏ chân, Faz rất mong muốn được vận động trở lại. Nhưng chạy không phải là lựa chọn phù hợp. ""Tôi đã thử nhưng các loại chi giả không đáp ứng được nhu cầu vận động này. Khi tôi cố gắng chạy bằng chân giả, vận động cơ thể không được tự nhiên, nó chỉ giúp ích cho việc đi bộ"".
+
+Tuy nhiên, năm 2009, khi Faz khởi lập một nhóm hỗ trợ các thanh thiếu niên và người trẻ tại trung tâm ung thư, cô nhận ra bản thân có thể làm được nhiều điều hơn nữa.
+
+""Thông qua tổ chức, chúng tôi tổ chức các cuộc cắm trại chơi thuyền kayak, các chuyến trượt tuyết và có những khoảnh khắc khám phá thật vui - cô kể - Và tôi thực sự muốn chạy trở lại"".
+
+Một năm sau, chân của Faz đã đủ vững để bác sĩ có thể lắp cho cô chiếc chân giả phù hợp hơn để chạy. Năm 30 tuổi, Faz bắt đầu tập luyện với khoảng cách 200m mỗi lần. Quãng đường chạy cứ tăng tiến dần cho tới khi Faz bất ngờ nhận ra mình đã chạy được 5.000m rồi 10.000m từ lúc nào không hay.
+
+Tới nay cô cũng đã hoàn thành 21 cuộc chạy bán marathon và một cuộc marathon với quãng đường 42km. Hiện tại người phụ nữ kiên cường đang luyện tập cho cuộc thi ba môn phối hợp half-Ironman với các quãng hành trình 1,9km bơi, 90km đạp xe và 21km chạy.
+
+""Trên người tôi có vô số vết sẹo và việc mất đi một chân luôn nhắc nhở tôi mỗi ngày về những điều đã mất"", cô nói. ""Nhưng điều đó đã thúc giục tôi mỗi ngày hãy cho đi nhiều hơn vì mình đã có cơ hội được sống"".
+
+Trong một bài viết chia sẻ về những điều đã trải qua trong cuộc đời mình trên trang Shape, Faz cho biết cô muốn dành cả cuộc đời mình cho công tác điều trị, cứu chữa bệnh nhân ung thư tại Trung tâm ung thư MD Anderson, đặc biệt là giúp các bệnh nhân trẻ như những gì quá khứ buồn từng xảy đến với cô.
+
+Trong hành trình đó, Faz tự hứa với lòng mình sẽ nỗ lực hết sức để có thể thực hiện lời hứa từng nói với các ân nhân cứu sống cô năm xưa: tôi sẽ nói với các bệnh nhân trẻ hôm nay rằng họ có thể làm mọi điều họ muốn và nhiều hơn nữa.",tuoitre.vn,0.45,0.5098298,0.38860276341438293,Real,Real
+Những dấu hiệu nhận biết nhà bạn đang có ma và cách trừ ma quỷ trong nhà,,"Những dấu hiệu nhận biết nhà có ma đơn giản nhất
+Dấu hiệu nhận biết nhà có maCác khung giờ 18 giờ chiều, 24 giờ đêm (0 giờ sáng) và 3 giờ sáng (quỷ môn quan) chính là 3 khung giờ mà vong hồn thường xuyên hoạt động mạnh mẽ nhất. Khi ấy, thường bầu không khí sẽ trở nên lạnh lẽo và ghê rợn vô cùng.
+Dưới đây các cách trừ ma quỷ trong nhà ứng với từng trường hợp cụ thể
+1. Vật nuôi có nhiều hành động lạ lùng hoặc chó sủa vu vơ
+Vật nuôi bao gồm chó, mèo, chuột… đều là những con vật cực kỳ nhạy cảm với thế giới tâm linh. Chúng có thể nhìn thấy những gì mà người thường không thể phát hiện ra nổi, đặc biệt là chó mực.
+Nếu thấy chó nhà bạn hay sủa vu vơ hay tru lên từng hồi dài hoặc chạy đến một căn phòng tối để kêu gào ầm ĩ.
+Chó, mèo, chuột… đều là những con vật cực kỳ nhạy cảm với thế giới tâm linhRiêng chó mực, nếu thấy nó chạy 3 chân 4 căng, chạy kinh hồn bạt vía còn mèo cứ đờ đẫn nhìn chằm chằm vào một điểm nào đó thì ắt hẳn, trong nhà bạn đang ẩn chứa nhiều vong hồn vất vưởng.
+Cách hóa giải âm khí trong nhà: Với trường hợp vật nuôi như chó mèo sủa inh ỏi hoặc đờ đẫn ngồi im hay chạy trốn khỏi căn phòng nào đó, hãy lấy giẻ lau (bẩn hoặc sạch đều được) có thấm nước tiểu của con vật đó rồi bí mật để vào một góc phòng.
+Ma quỷ sẽ nhanh chóng rời đi mà không dám lưu lại “lộng hành”.
+2. Nhiều tiếng động lạ xuất hiện xung quanh nhà
+Nhiều người đã bị ám ảnh rất lâu bởi việc phải nghe những tiếng động đáng sợ xuất hiện quanh nhà vào những quãng thời gian ma quỷ nói trên.
+Kinh khủng nhất là vào ban đêm, khi ở một mình phải căng tai lên nghe tiếng bát đĩa vỡ hay tiếng bước chân thình thịch đi lại ngoài hành lang hay tiếng khóc lóc thảm thiết cùng những tiếng cào ai oán…
+Kinh khủng nhất là vào ban đêm, khi ở một mình nghe thấy tiếng đi lại ngoài hành lang hay tiếng khóc lóc thảm thiếtNếu nhà bạn không có nguồn gây ra tiếng ồn một cách chính đáng, như nuôi thú cưng hay trẻ nhỏ quấy về đêm hoặc gia đình có chuyện bất hòa và các âm thanh này liên tục lặp lại với tần suất ngày một dày lên thì chắc chắn, trong nhà có vong!
+Cách hóa giải âm khí trong nhà: Muốn hóa giải trường hợp ma ám này, hãy treo 1 quả hồ lô có buộc dây tơ hồng ở chính giữa vào đúng hướng Tây Nam của cửa chính.
+Ngoài ra cũng cần đặt một chiếc chổi cùn hay một chiếc quần đùi rách tại nơi phát ra những tiếng động kinh hoàng đó.
+Nếu bạn hay nghe thấy những tiếng gõ “cộc cộc cộc” 3 tiếng gõ/lần ở trên trần nhà hoặc tại vách tường hay tiếng thả hòn bi rơi xuống nền nhà bằng gạch 3 viên/lần thì đừng bao giờ đáp trả hoặc gõ lại. Nếu không bạn sẽ bị ma quỷ hớp hồn hay nhập vong ngay tức khắc.
+3. Đồ đạc biến mất hoặc dịch chuyển so với vị trí ban đầu
+Các đồ đạc trong nhà hoặc rất to hoặc rất nhỏ thường xuyên biến mất bí ẩn dù bạn đã cất hoặc sắp xếp chúng gọn gàng như chìa khóa, điện thoại, ví tiền…
+Hoặc bàn ghế, bát đũa, nồi niêu… biến mất một cách khó hiểu rồi bất ngờ xuất hiện trở lại…
+Đồ đạc trong nhà thường xuyên biến mất bí ẩnHoặc đáng sợ hơn, vong hồn ma quỷ trong nhà cố gắng phát ra từ trường nhằm mục đích di chuyển đồ gia dụng để hù dọa chủ nhà, để họ phải chú ý đến sự tồn tại của chúng.
+Thường chúng hành động về đêm, muốn biết chỉ cần đặt một vài tép tỏi khô ở vị trí khả nghi. Nếu đồ vật không hề suy xuyển thì chúng đang sợ hãi và cách nhận biết nhà có vong này là chính xác.
+Cách hóa giải âm khí trong nhà: Đặt ở góc phải nhà một viên đá thạch anh tím phong thủy, vật phẩm này sẽ hấp thu năng lượng và từ trường xấu của các vong linh, khiến chúng ngày một suy yếu và tự động rời đi.
+Có thể linh động sử dụng các cách trừ ma quỷ trong nhà lẫn nhau tùy theo từng vị trí và địa điểm xuất hiện ma quỷ.
+Tốt nhất, ngay khi nhận thấy những dấu hiệu lạ thường ngày, ngoài các hành động trên, hãy mời thầy phong thủy và tâm linh có tiếng đến nhà hóa giải.
+Một số dấu hiệu nhận biết nhà có ma khác
+1. Cảm xúc thất thường như thấy người khác theo dõi từ sau lưng, trên cao hoặc luôn thấy ai đó đang nhìn chằm chằm vào mình hay bị một bàn tay vô hình nào đó chạm vào người.
+2. Các thiết bị điện tử trong nhà hoạt động bất thường: Như đèn tự tắt bật, ti vi tự đổi kênh, tủ lạnh, máy giặt tự hoạt động khi không có người và hệ thống điện hoàn toàn bình thường.
+3. Côn trùng bất ngờ xuất hiện và quấy phá trong khi từ trước đến giờ nhà bạn khá sạch sẽ. Có thể một thế lực vô hình đang cố tình lôi kéo chúng đến.
+4. Nhà có mùi lạ: Đây là dấu hiệu chung ở những căn nhà bị ma ám trước do chính các vị chủ nhân khốn khổ kể lạ. Mùi lạ được ngửi thấy nhiều nhất là mui thuốc lá, mùi nước hoa, bột phấn rôm hay mùi của khói cả mùi thịt thối!
+5. Gặp ác mộng thường xuyên: Các nhân vật xuất hiện trong mơ là những người lạ mặt, kỳ quái, hành động khó hiểu… Có thể, họ đang cố gắng “nhờ” bạn giúp họ liên lạc giữa cõi dương và cõi âm.
+Gặp ác mộng thường xuyên6. Nhiệt độ thay đổi bất thường như đang nóng thì đột ngột lạnh toát hoặc lạnh gáy vì có ai đó thổi luồng không khí rợn người từ sau lưng
+7. Nhìn thấy một hồn ma với đôi mắt vô hồn đang nhìn chằm chằm vào chính mình. Đây là dấu hiệu cuối cùng xác thực nhất chứng minh, trong nhà có vong!
+Nhìn thấy một hồn ma với đôi mắt vô hồn đang nhìn chằm chằm vào chính mìnhCách hóa giải âm khí trong nhà: Nếu bạn là người tốt, đừng sợ, hãy cứ sống bình thường, ma quỷ sẽ không bao giờ làm hại bạn đâu!
+Nếu cẩn thận hơn, hãy đốt một nhánh ngải trắng và khẽ đi xung quanh khắp ngôi nhà, vừa đi vừa nói “ngươi có thể đi được rồi” hoặc “những linh hồn đang ẩn dật và các tạp chất tiêu cực và mọi vận rủi, xin hãy yên nghỉ”.
+Cách làm này sẽ đánh thức các vong hồn và đuổi chúng đi nhanh chóng. Khi thực hiện, nên mở toàn bộ cửa sổ, cửa ra vào để ma quỷ bị trục xuất nhanh chóng.",tinvn.info,0.45,0.54736054,0.38860276341438293,Real,Fake
+N̲gh̲i v̲ấn U̲k̲r̲a̲i̲n̲e ᴛ̲ự ᴛh̲ả̲m s̲á̲ᴛ d̲â̲n củ̲a̲ m̲ì̲n̲h: G̲i̲ới lãn̲h̲ đ̲ạo ph̲ư̲ơng T̲â̲y số̲c nặn̲g - N̲ga đ̲ề n̲gh̲ị HĐBA LH̲Q h̲ọp k̲h̲ẩ̲n,,"P̼h̼í̼a̼ ̼U̼k̼r̼a̼i̼n̼e̼ ̼c̼á̼o̼ ̼b̼u̼ộ̼c̼ ̼N̼g̼a̼ ̼g̼â̼y̼ ̼r̼a̼ ̼v̼ụ̼ ̼“̼t̼h̼ả̼m̼ ̼s̼á̼t̼ ̼B̼u̼c̼h̼a̼”̼,̼ ̼t̼r̼o̼n̼g̼ ̼k̼h̼i̼ ̼p̼h̼í̼a̼ ̼N̼g̼a̼ ̼k̼i̼ê̼n̼ ̼q̼u̼y̼ế̼t̼ ̼b̼á̼c̼ ̼b̼ỏ̼ ̼c̼á̼o̼ ̼b̼u̼ộ̼c̼ ̼n̼à̼y̼.̼
+
+Ảnh: AFP
+
+̼”̼T̼h̼ả̼m̼ ̼s̼á̼t̼ ̼B̼u̼c̼h̼a̼”̼:̼ ̼G̼i̼ớ̼i̼ ̼l̼ã̼n̼h̼ ̼đ̼ạ̼o̼ ̼p̼h̼ư̼ơ̼n̼g̼ ̼T̼â̼y̼ ̼s̼ố̼c̼ ̼n̼ặ̼n̼g̼ ̼-̼ ̼N̼g̼a̼ ̼đ̼ề̼ ̼n̼g̼h̼ị̼ ̼H̼Đ̼B̼A̼ ̼L̼H̼Q̼ ̼h̼ọ̼p̼ ̼k̼h̼ẩ̼n̼“̼T̼h̼ả̼m̼ ̼s̼á̼t̼ ̼B̼u̼c̼h̼a̼”̼:̼ ̼G̼i̼ớ̼i̼ ̼l̼ã̼n̼h̼ ̼đ̼ạ̼o̼ ̼p̼h̼ư̼ơ̼n̼g̼ ̼T̼â̼y̼ ̼s̼ố̼c̼ ̼n̼ặ̼n̼g̼ ̼–̼ ̼N̼g̼a̼ ̼đ̼ề̼ ̼n̼g̼h̼ị̼ ̼H̼Đ̼B̼A̼ ̼L̼H̼Q̼ ̼h̼ọ̼p̼ ̼k̼h̼ẩ̼n̼
+
+̼C̼u̼ố̼i̼ ̼t̼u̼ầ̼n̼ ̼t̼r̼ư̼ớ̼c̼,̼ ̼n̼h̼ữ̼n̼g̼ ̼h̼ì̼n̼h̼ ̼ả̼n̼h̼ ̼k̼i̼n̼h̼ ̼h̼o̼à̼n̼g̼ ̼ở̼ ̼t̼h̼à̼n̼h̼ ̼p̼h̼ố̼ ̼B̼u̼c̼h̼a̼,̼ ̼p̼h̼í̼a̼ ̼T̼â̼y̼ ̼B̼ắ̼c̼ ̼t̼h̼ủ̼ ̼đ̼ô̼ ̼K̼y̼i̼v̼,̼ ̼c̼h̼o̼ ̼t̼h̼ấ̼y̼ ̼r̼ấ̼t̼ ̼n̼h̼i̼ề̼u̼ ̼t̼h̼i̼ ̼t̼h̼ể̼ ̼m̼ặ̼c̼ ̼q̼u̼ầ̼n̼ ̼á̼o̼ ̼d̼â̼n̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼n̼ằ̼m̼ ̼r̼ả̼i̼ ̼r̼á̼c̼ ̼k̼h̼ắ̼p̼ ̼n̼ơ̼i̼,̼ ̼đ̼ã̼ ̼đ̼ư̼ợ̼c̼ ̼c̼h̼i̼a̼ ̼s̼ẻ̼ ̼c̼h̼ó̼n̼g̼ ̼m̼ặ̼t̼ ̼t̼r̼ê̼n̼ ̼t̼r̼u̼y̼ề̼n̼ ̼t̼h̼ô̼n̼g̼ ̼v̼à̼ ̼c̼á̼c̼ ̼m̼ạ̼n̼g̼ ̼x̼ã̼ ̼h̼ộ̼i̼.̼
+
+̼L̼o̼ạ̼t̼ ̼h̼ì̼n̼h̼ ̼ả̼n̼h̼ ̼g̼â̼y̼ ̼s̼ố̼c̼ ̼n̼à̼y̼ ̼x̼u̼ấ̼t̼ ̼h̼i̼ệ̼n̼ ̼s̼a̼u̼ ̼k̼h̼i̼ ̼N̼g̼a̼ ̼t̼u̼y̼ê̼n̼ ̼b̼ố̼ ̼g̼i̼ả̼m̼ ̼đ̼á̼n̼g̼ ̼k̼ể̼ ̼h̼o̼ạ̼t̼ ̼đ̼ộ̼n̼g̼ ̼q̼u̼â̼n̼ ̼s̼ự̼ ̼t̼r̼ê̼n̼ ̼h̼ư̼ớ̼n̼g̼ ̼t̼h̼ủ̼ ̼đ̼ô̼ ̼K̼y̼i̼v̼,̼ ̼v̼à̼ ̼U̼k̼r̼a̼i̼n̼e̼ ̼h̼ô̼m̼ ̼2̼/̼4̼ ̼t̼h̼ô̼n̼g̼ ̼b̼á̼o̼ ̼q̼u̼â̼n̼ ̼đ̼ộ̼i̼ ̼c̼ủ̼a̼ ̼h̼ọ̼ ̼đ̼ã̼ ̼“̼g̼i̼à̼n̼h̼ ̼l̼ạ̼i̼ ̼q̼u̼y̼ề̼n̼ ̼k̼i̼ể̼m̼ ̼s̼o̼á̼t̼”̼ ̼t̼o̼à̼n̼ ̼b̼ộ̼ ̼k̼h̼u̼ ̼v̼ự̼c̼ ̼n̼à̼y̼.̼
+
+̼P̼h̼í̼a̼ ̼U̼k̼r̼a̼i̼n̼e̼ ̼đ̼ã̼ ̼n̼h̼a̼n̼h̼ ̼c̼h̼ó̼n̼g̼ ̼c̼á̼o̼ ̼b̼u̼ộ̼c̼ ̼q̼u̼â̼n̼ ̼đ̼ộ̼i̼ ̼N̼g̼a̼ ̼g̼â̼y̼ ̼r̼a̼ ̼v̼ụ̼ ̼v̼i̼ệ̼c̼ ̼n̼à̼y̼,̼ ̼v̼ớ̼i̼ ̼t̼u̼y̼ê̼n̼ ̼b̼ố̼ ̼c̼ủ̼a̼ ̼N̼g̼o̼ạ̼i̼ ̼t̼r̼ư̼ở̼n̼g̼ ̼U̼k̼r̼a̼i̼n̼e̼ ̼D̼m̼y̼t̼r̼o̼ ̼K̼u̼l̼e̼b̼a̼ ̼t̼r̼ê̼n̼ ̼m̼ạ̼n̼g̼ ̼x̼ã̼ ̼h̼ộ̼i̼ ̼T̼w̼i̼t̼t̼e̼r̼ ̼r̼ằ̼n̼g̼ ̼đ̼ó̼ ̼l̼à̼ ̼“̼m̼ộ̼t̼ ̼v̼ụ̼ ̼t̼h̼ả̼m̼ ̼s̼á̼t̼ ̼c̼ó̼ ̼c̼h̼ủ̼ ̼ý̼”̼.̼
+
+̼P̼h̼í̼a̼ ̼M̼o̼s̼k̼v̼a̼ ̼đ̼ã̼ ̼k̼i̼ê̼n̼ ̼q̼u̼y̼ế̼t̼ ̼b̼á̼c̼ ̼b̼ỏ̼ ̼c̼á̼c̼ ̼c̼á̼o̼ ̼b̼u̼ộ̼c̼ ̼t̼r̼ê̼n̼,̼ ̼c̼h̼o̼ ̼b̼i̼ế̼t̼ ̼“̼c̼ó̼ ̼n̼h̼i̼ề̼u̼ ̼đ̼i̼ể̼m̼ ̼m̼â̼u̼ ̼t̼h̼u̼ẫ̼n̼”̼,̼ ̼v̼à̼ ̼t̼ố̼ ̼n̼g̼ư̼ợ̼c̼ ̼l̼ạ̼i̼ ̼r̼ằ̼n̼g̼ ̼K̼y̼i̼v̼ ̼đ̼ã̼ ̼d̼à̼n̼ ̼d̼ự̼n̼g̼ ̼t̼o̼à̼n̼ ̼b̼ộ̼ ̼v̼ụ̼ ̼v̼i̼ệ̼c̼ ̼đ̼ể̼ ̼b̼ẫ̼y̼ ̼q̼u̼â̼n̼ ̼đ̼ộ̼i̼ ̼N̼g̼a̼.̼
+
+̼B̼ộ̼ ̼Q̼u̼ố̼c̼ ̼p̼h̼ò̼n̼g̼ ̼N̼g̼a̼ ̼k̼h̼ẳ̼n̼g̼ ̼đ̼ị̼n̼h̼ ̼c̼á̼c̼ ̼l̼ự̼c̼ ̼l̼ư̼ợ̼n̼g̼ ̼v̼ũ̼ ̼t̼r̼a̼n̼g̼ ̼c̼ủ̼a̼ ̼n̼ư̼ớ̼c̼ ̼n̼à̼y̼ ̼đ̼ã̼ ̼r̼ú̼t̼ ̼k̼h̼ỏ̼i̼ ̼B̼u̼c̼h̼a̼ ̼v̼à̼o̼ ̼n̼g̼à̼y̼ ̼3̼0̼/̼3̼,̼ ̼v̼à̼ ̼m̼ộ̼t̼ ̼n̼g̼à̼y̼ ̼s̼a̼u̼ ̼đ̼ó̼,̼ ̼t̼h̼ị̼ ̼t̼r̼ư̼ở̼n̼g̼ ̼c̼ủ̼a̼ ̼t̼h̼à̼n̼h̼ ̼p̼h̼ố̼ ̼n̼à̼y̼ ̼đ̼ã̼ ̼x̼á̼c̼ ̼n̼h̼ậ̼n̼ ̼t̼r̼o̼n̼g̼ ̼v̼i̼d̼e̼o̼ ̼m̼à̼ ̼“̼k̼h̼ô̼n̼g̼ ̼h̼ề̼ ̼đ̼ề̼ ̼c̼ậ̼p̼ ̼t̼ớ̼i̼ ̼b̼ấ̼t̼ ̼k̼ỳ̼ ̼t̼r̼ư̼ờ̼n̼g̼ ̼h̼ợ̼p̼ ̼d̼â̼n̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼n̼à̼o̼ ̼b̼ị̼ ̼b̼ắ̼n̼ ̼t̼r̼ê̼n̼ ̼đ̼ư̼ờ̼n̼g̼ ̼p̼h̼ố̼”̼.̼
+
+̼Đ̼à̼i̼ ̼R̼T̼ ̼d̼ẫ̼n̼ ̼l̼ờ̼i̼ ̼P̼h̼ó̼ ̼đ̼ạ̼i̼ ̼d̼i̼ệ̼n̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼t̼r̼ự̼c̼ ̼c̼ủ̼a̼ ̼N̼g̼a̼ ̼t̼ạ̼i̼ ̼H̼ộ̼i̼ ̼đ̼ồ̼n̼g̼ ̼B̼ả̼o̼ ̼a̼n̼ ̼L̼i̼ê̼n̼ ̼H̼ợ̼p̼ ̼Q̼u̼ố̼c̼ ̼(̼H̼Đ̼B̼A̼ ̼L̼H̼Q̼)̼ ̼c̼h̼o̼ ̼b̼i̼ế̼t̼ ̼M̼o̼s̼k̼v̼a̼ ̼s̼ẽ̼ ̼t̼r̼i̼ệ̼u̼ ̼t̼ậ̼p̼ ̼c̼u̼ộ̼c̼ ̼h̼ọ̼p̼ ̼b̼ấ̼t̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼c̼ủ̼a̼ ̼H̼Đ̼B̼A̼ ̼v̼ề̼ ̼v̼ụ̼ ̼v̼i̼ệ̼c̼ ̼ở̼ ̼t̼h̼à̼n̼h̼ ̼p̼h̼ố̼ ̼B̼u̼c̼h̼a̼ ̼c̼ủ̼a̼ ̼U̼k̼r̼a̼i̼n̼e̼.̼
+
+̼T̼h̼e̼o̼ ̼h̼ã̼n̼g̼ ̼t̼i̼n̼ ̼R̼e̼u̼t̼e̼r̼s̼ ̼(̼A̼n̼h̼)̼,̼ ̼s̼a̼u̼ ̼k̼h̼i̼ ̼U̼k̼r̼a̼i̼n̼e̼ ̼c̼á̼o̼ ̼b̼u̼ộ̼c̼ ̼N̼g̼a̼ ̼g̼â̼y̼ ̼r̼a̼ ̼v̼ụ̼ ̼“̼t̼h̼ả̼m̼ ̼s̼á̼t̼”̼ ̼ở̼ ̼B̼u̼c̼h̼a̼,̼ ̼c̼á̼c̼ ̼n̼ư̼ớ̼c̼ ̼p̼h̼ư̼ơ̼n̼g̼ ̼T̼â̼y̼ ̼đ̼ã̼ ̼b̼à̼y̼ ̼t̼ỏ̼ ̼s̼ự̼ ̼p̼h̼ẫ̼n̼ ̼n̼ộ̼ ̼v̼à̼ ̼k̼ê̼u̼ ̼g̼ọ̼i̼ ̼á̼p̼ ̼đ̼ặ̼t̼ ̼c̼á̼c̼ ̼l̼ệ̼n̼h̼ ̼t̼r̼ừ̼n̼g̼ ̼p̼h̼ạ̼t̼ ̼m̼ớ̼i̼ ̼n̼h̼ằ̼m̼ ̼v̼à̼o̼ ̼M̼o̼s̼k̼v̼a̼.̼
+
+̼B̼ì̼n̼h̼ ̼l̼u̼ậ̼n̼ ̼v̼ề̼ ̼v̼ụ̼ ̼“̼t̼h̼ả̼m̼ ̼s̼á̼t̼ ̼B̼u̼c̼h̼a̼”̼,̼ ̼T̼h̼ủ̼ ̼t̼ư̼ớ̼n̼g̼ ̼Đ̼ứ̼c̼ ̼O̼l̼a̼f̼ ̼S̼c̼h̼o̼l̼z̼ ̼n̼ó̼i̼ ̼r̼ằ̼n̼g̼ ̼n̼h̼ữ̼n̼g̼ ̼h̼ì̼n̼h̼ ̼ả̼n̼h̼ ̼đ̼ư̼ợ̼c̼ ̼t̼r̼u̼y̼ề̼n̼ ̼t̼h̼ô̼n̼g̼ ̼v̼à̼ ̼m̼ạ̼n̼g̼ ̼x̼ã̼ ̼h̼ộ̼i̼ ̼đ̼ă̼n̼g̼ ̼t̼ả̼i̼ ̼“̼q̼u̼á̼ ̼k̼h̼ủ̼n̼g̼ ̼k̼h̼i̼ế̼p̼”̼,̼ ̼t̼r̼o̼n̼g̼ ̼k̼h̼i̼ ̼N̼g̼o̼ạ̼i̼ ̼t̼r̼ư̼ở̼n̼g̼ ̼Đ̼ứ̼c̼ ̼A̼n̼n̼a̼l̼e̼n̼a̼ ̼B̼a̼e̼r̼b̼o̼c̼k̼ ̼n̼ó̼i̼ ̼r̼ằ̼n̼g̼ ̼b̼à̼ ̼“̼k̼h̼ô̼n̼g̼ ̼t̼h̼ể̼ ̼c̼h̼ị̼u̼ ̼đ̼ự̼n̼g̼ ̼đ̼ư̼ợ̼c̼”̼ ̼n̼h̼ữ̼n̼g̼ ̼h̼ì̼n̼h̼ ̼ả̼n̼h̼ ̼n̼à̼y̼.̼
+
+̼N̼g̼o̼ạ̼i̼ ̼t̼r̼ư̼ở̼n̼g̼ ̼M̼ỹ̼ ̼A̼n̼t̼o̼n̼y̼ ̼B̼l̼i̼n̼k̼e̼n̼ ̼n̼ó̼i̼ ̼r̼ằ̼n̼g̼ ̼n̼h̼ữ̼n̼g̼ ̼h̼ì̼n̼h̼ ̼ả̼n̼h̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼d̼â̼n̼ ̼t̼h̼i̼ệ̼t̼ ̼m̼ạ̼n̼g̼ ̼ở̼ ̼B̼u̼c̼h̼a̼ ̼g̼i̼ố̼n̼g̼ ̼n̼h̼ư̼ ̼“̼m̼ộ̼t̼ ̼c̼ú̼ ̼đ̼ấ̼m̼ ̼v̼à̼o̼ ̼b̼ụ̼n̼g̼”̼,̼ ̼t̼r̼o̼n̼g̼ ̼k̼h̼i̼ ̼T̼ổ̼n̼g̼ ̼T̼h̼ư̼ ̼k̼ý̼ ̼L̼i̼ê̼n̼ ̼H̼i̼ệ̼p̼ ̼Q̼u̼ố̼c̼ ̼(̼L̼H̼Q̼)̼ ̼A̼n̼t̼o̼n̼i̼o̼ ̼G̼u̼t̼e̼r̼r̼e̼s̼ ̼n̼ó̼i̼ ̼r̼ằ̼n̼g̼ ̼ô̼n̼g̼ ̼“̼v̼ô̼ ̼c̼ù̼n̼g̼ ̼s̼ố̼c̼”̼.̼ ̼Ô̼n̼g̼ ̼G̼u̼t̼e̼r̼r̼e̼s̼ ̼c̼ũ̼n̼g̼ ̼đ̼ã̼ ̼đ̼ề̼ ̼n̼g̼h̼ị̼ ̼m̼ở̼ ̼c̼u̼ộ̼c̼ ̼đ̼i̼ề̼u̼ ̼t̼r̼a̼ ̼đ̼ộ̼c̼ ̼l̼ậ̼p̼ ̼v̼ề̼ ̼v̼ụ̼ ̼v̼i̼ệ̼c̼ ̼k̼i̼n̼h̼ ̼h̼o̼à̼n̼g̼ ̼n̼à̼y̼.̼
+
+̼T̼ổ̼n̼g̼ ̼T̼h̼ư̼ ̼k̼ý̼ ̼N̼A̼T̼O̼ ̼J̼e̼n̼s̼ ̼S̼t̼o̼l̼t̼e̼n̼b̼e̼r̼g̼ ̼n̼ó̼i̼ ̼r̼ằ̼n̼g̼ ̼v̼ụ̼ ̼“̼t̼h̼ả̼m̼ ̼s̼á̼t̼ ̼B̼u̼c̼h̼a̼”̼ ̼l̼à̼ ̼“̼h̼à̼n̼h̼ ̼v̼i̼ ̼t̼à̼n̼ ̼b̼ạ̼o̼ ̼đ̼ố̼i̼ ̼v̼ớ̼i̼ ̼d̼â̼n̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼m̼à̼ ̼c̼h̼ú̼n̼g̼ ̼t̼ô̼i̼ ̼c̼h̼ư̼a̼ ̼t̼ừ̼n̼g̼ ̼t̼h̼ấ̼y̼ ̼ở̼ ̼c̼h̼â̼u̼ ̼Â̼u̼ ̼t̼r̼o̼n̼g̼ ̼n̼h̼i̼ề̼u̼ ̼t̼h̼ậ̼p̼ ̼k̼ỷ̼.̼”̼
+
+̼“̼T̼h̼ậ̼t̼ ̼k̼h̼ủ̼n̼g̼ ̼k̼h̼i̼ế̼p̼.̼ ̼V̼i̼ệ̼c̼ ̼t̼h̼ư̼ờ̼n̼g̼ ̼d̼â̼n̼ ̼b̼ị̼ ̼g̼i̼ế̼t̼ ̼h̼ạ̼i̼ ̼l̼à̼ ̼đ̼i̼ề̼u̼ ̼k̼h̼ô̼n̼g̼ ̼t̼h̼ể̼ ̼c̼h̼ấ̼p̼ ̼n̼h̼ậ̼n̼ ̼đ̼ư̼ợ̼c̼.̼ ̼T̼ổ̼n̼g̼ ̼t̼h̼ố̼n̼g̼ ̼[̼V̼l̼a̼d̼i̼m̼i̼r̼]̼ ̼P̼u̼t̼i̼n̼ ̼c̼ó̼ ̼t̼r̼á̼c̼h̼ ̼n̼h̼i̼ệ̼m̼ ̼p̼h̼ả̼i̼ ̼n̼g̼ă̼n̼ ̼c̼h̼ặ̼n̼ ̼c̼h̼i̼ế̼n̼ ̼t̼r̼a̼n̼h̼”̼,̼ ̼ô̼n̼g̼ ̼S̼t̼o̼l̼t̼e̼n̼b̼e̼r̼g̼ ̼n̼ó̼i̼.̼
+
+̼T̼h̼e̼o̼ ̼D̼o̼a̼n̼h̼ ̼n̼g̼h̼i̼ệ̼p̼ ̼v̼à̼ ̼T̼i̼ế̼p̼ ̼t̼h̼ị̼",anninh247.xyz,0.89,0.5254888,0.38860276341438293,Fake,Fake
+Vẻ xa xỉ của Song Hye Kyo khi đóng quý cô trâm anh thế phiệt,,"""Encounter"" chiếu trên đài tvN từ 28/11, Hye Kyo vào vai con gái thị trưởng Seoul đồng thời quản lý một khách sạn lớn. Qua ba tập đã phát sóng, người đẹp sử dụng nhiều món đồ đắt tiền, trong đó có túi Hermès Kelly. Mỗi chiếc túi dòng Kelly có giá trên 10.000 USD (hơn 230 triệu đồng).",giaitri.vnexpress.net,0.0,0.50407404,0.38860276341438293,Real,Real
+"Dụ em gái cosplay mới quen gửi ảnh trong bồn tắm, chàng trai sốc tận não khi nàng trút bỏ xiêm y",,"Lúc cosplay thì rõ xinh xắn vậy mà lúc sau nàng lại biến thành một người hoàn toàn khác khiến thanh niên chỉ còn biết câm nín khô lời.
+Mê mẩn thiếu nữ cosplay dễ thương, anh chàng xin số làm quen…
+…để rồi nhận cái kết đắng khi nhìn thấy bức ảnh sau khi tắm gội của “nàng”.
+Có ai thích con gái tóc dài không?
+Chiếc túi “Hơi-mệt” gây xôn xao cộng đồng mạng những ngày qua.
+Ông bố nhọ nhất năm đây rồi!
+Thanh niên yêu thích màu “hường” mơ mộng giữa phố.
+Anh em giải thích xem cái vòi xuất hiện trong thiết kế quần “chip” này để làm gì vậy?
+Nhà em không có gì ngoài điều kiện các bác ạ!
+Chỉ là một bức tranh để troll nhau thôi mà.
+Xem thêm: Xoắn quẩy vì soái ca sơ mi trắng, triệu thiếu nữ vỡ tim khi nhìn xuống phát hiện điểm xấu hổ ngay ‘hạ bộ’ của chàng
+Nhà sách ế ẩm, nhân viên nghĩ ra trò chơi thú vị này đây.
+Hôm nay hơi vội nên ông già Noel xỏ nhầm giày của vợ!",tinvn.info,0.45,0.5706639,0.38860276341438293,Fake,Fake
+"Nhận xăm “chỗ kín” cho thiếu nữ, tái mặt vì thấy điều kinh dị khiến anh thợ muốn hộc máu mồm",,"Thế mới nói, những chàng thợ xăm là những người “cứng vía” đến nhường nào.
+Cứ tò mò mãi sao cô gái này nằng nặc đòi vào chỗ nào kín đáo mới chịu xăm, thanh niên chỉ biết nín lặng mà hộc máu khi vừa vào phòng đã thấy cảnh tượng kinh dị là nàng hồn nhiên… lột hết đồ ra rồi yêu cầu xăm vào nơi “nhạy cảm” đến vậy.
+Chị em bây giờ càng ngày càng táo bạo hơn rồi!
+Đang xăm mải miết mà cũng run sợ muôn phần bởi “chỗ đó” có thể nổ tung bất cứ lúc nào.
+Có ai chỉ tập trung vào mảng xanh huyền bí không?
+Phía sau tấm lưng trần thướt tha…
+Xăm trên bụng đã phải toát mồ hôi hột rồi…
+… vậy mà còn sau hông nữa thì 500 anh em biết phải làm sao?
+Thế mới nói, nghề thợ xăm bây giờ “áp lực” quá!
+Nhưng dù xăm chỗ bình thường hay nhạy cảm đi chăng nữa,…
+… các anh phải hoàn toàn phải bình tĩnh và tập trung cao độ.
+Vị trí xăm hình khiến nhiều người xem “đỏ mặt”.",tinvn.info,0.45,0.5749486,0.38860276341438293,Fake,Fake
+Bác sĩ không đầu trước cửa phòng khám khiến cả bệnh viện náo loạn khi biết sự thật,,"Hình ảnh người bác sĩ không đầu xuất hiện trong bệnh viện đã khiến các bệnh nhân hoảng loạn tránh xa.
+Mới đây, trên trang thông tin của Thái Lan đã chia sẻ hình ảnh người bác sĩ có ngoại hình kỳ lạ xuất hiện tại bệnh viện. Những hình ảnh của vị bác sĩ đã nhanh chóng được chia sẻ và nhận được sự quan tâm từ phía cộng đồng mạng toàn châu Á.
+Những người có mặt đã vô cùng sợ hãi vì sự xuất hiện của bác sĩ không đầu
+Được biết, những hình ảnh này được chia sẻ từ trang cá nhân của bạn trẻ có tên Leslie Ursabia, đang sinh sống tại Thái Lan. Chỉ sau thời gian ngắn những hình ảnh này được chia sẻ đã thu hút sự chú ý từ phía cộng đồng mạng.
+Rất nhiều lời bình luận từ phía dân mạng về hình ảnh dễ gây hiểu lầm này
+Theo những hình ảnh ghi lại, người đàn ông khoác trên mình bộ trang phục bác sĩ đã xuất hiện trước cửa phòng cấp cứu. Ông đã khiến mọi người chú ý không chỉ bởi chiều cao đáng ngưỡng mộ và còn bởi trên cơ thể của ông không có đầu.
+Sau khi những hình ảnh này được chia sẻ rầm rộ đã nhận được rất nhiều lời bình luận từ phía cộng đồng mạng ngoài nhận định vi bác sĩ này bị cụt đầu. Nhiều người cho rằng, đây đơn giản là một tín ngưỡng đầu bóng của những người đàn ông tại Thái Lan. Một số người khác lại bình luận, hình ảnh này dễ gây hiểu lầm và vị bác sĩ này đang cứu đầu viết trước phòng bệnh. Đến nay, hành động của vị bác sĩ này vẫn chưa có lời giải đáp.",tinvn.info,0.45,0.5295627,0.38860276341438293,Real,Fake
+"Rùa biển sa lưới ‘vươn cổ cúi lạy’, ông chủ bèn mua rồi phóng sinh, 16 năm sau chú rùa quay lại trả ơn",,"Tại Cơ Long, Đài Loan có một cửa hàng mang tên “Ngộ Duyên Hào”. Ông chủ Lâm vốn là một người tốt bụng, thường làm việc thiện, khu vực ông sống có nhiều những cư dân đánh cá kiếm sống quanh đó.
+ 
+ Một ngày, ngư dân dùng lưới bắt được một con rùa lớn, đúng lúc khi họ chuẩn bị đem đi giết thịt bán thì ông Lâm đi ngang qua, nhìn thấy cảnh tượng con rùa không ngừng vươn cổ cúi đầu như lạy người xung quanh, nước mắt chảy dòng, dường như cầu cứu mọi người. Ông Lâm đã xuất tâm từ bi, không tiếc bỏ ra một số tiền lớn để mua con rùa, đồng thời nhờ mọi người giúp đưa nó trở lại biển để phóng sinh.
+ 
+ Do lo lắng rằng ai đó sẽ lại bắt lấy nó và giết, vì vậy ông đã viết lên mai của rùa 5 chữ là “Gặp duyên số phóng sinh”, với hy vọng người sau sẽ từ bi, khai ân cho nó được sống tự do, đừng tùy ý giết hại nó. Sau khi viết xong họ liền đưa chú rùa ra biển phóng sinh, rất nhiều người dân tại bãi biển khi ấy đều nhìn thấy con rùa khổng lồ nổi lên, không ngừng vươn cổ hướng về phía ông Lâm như khấu đầu tạ ơn.
+ 
+ Mọi người chứng kiến cảnh tượng đều cảm thấy rất cảm động. Bởi vậy, họ cũng tự hứa với nhau, nếu sau này gặp phải một con rùa lớn như vậy, họ sẽ không bắt, không giết và cũng không ăn. Vậy nên, cho đến ngày hôm nay nó vẫn còn tồn tại ở khu vực này.
+ 
+ Sự việc trôi qua 16 năm, cậu con trai thứ hai của ông Lâm giờ đây đang theo học ở một trường thương nghiệp tại Đài Bắc, trong dịp nghỉ lễ cậu tranh thủ về thăm nhà. Lần đó, trên chuyến hành trình trở về, do thuyền đi ngược dòng nước biển cùng thời tiết xấu, thật không may con tàu bị sóng đánh và chìm. Hơn 100 hành khách trên tàu, thì có đến 90 người bị dòng nước nhấn chìm.
+ 
+ Con trai ông Lâm mặc dù biết bơi, nhưng sóng biển quá lớn, anh gần như bị nhấn chìm, kiệt sức vật lộn giữa sóng dữ. Đột nhiên anh cảm thấy cơ thể mình như được đẩy lên bởi một vật giống như chiếc bàn tròn lớn, nhìn kỹ, hóa ra anh đang nằm trên lưng một con rùa, sau đó nhìn kĩ hơn, anh thấy miệng của nó to như một chậu rửa mặt. Anh hoảng sợ và thầm nghĩ chẳng lẽ mình phải chôn thân trong bụng con rùa này. Định quay người nhảy xuống dòng nước, nhưng khi đó anh đã quá đuối sức, không còn sức lực để tranh đấu tiếp nữa.
+ 
+ Mệt nhoài nằm trên lưng rùa một thời gian rất lâu, khi tỉnh táo nhìn xuống, đột nhiên anh thấy trên lưng con rùa viết 5 chữ “gặp duyên số phóng sinh”. Anh mới chợt nhớ, con rùa biển này chính là con rùa mà cha anh đã từng cứu mạng. Trong lòng anh chuyển từ sợ hãi thành niềm vui, hóa ra chú rùa chính là đến cứu mình. Vì vậy, anh đã ôm chú rùa biển, để chú rùa mang mình đi, trong miệng liên tụng niệm Phật và đội ơn trời đất.
+ 
+ Con rùa bơi trên biển, cố gắng để đưa anh vào bờ, khi sắp cập bờ, anh vui mừng nhảy xuống vùng nước nông. Con trai ông Lâm liền chắp tay cảm tạ ơn cứu mạng của con rùa. Con rùa cũng vươn cổ lên, hơn nữa còn mở miệng phát ra âm thanh, tỏ vẻ rất vui, một lúc mới quay đầu và bơi đi. Người dân trên bờ nhìn thấy từ xa vội chạy đến chúc mừng.
+ 
+ Những người dân địa phương khi biết về sự việc đều rất xúc động, đồng thời từ đó họ luôn vui vẻ hành thiện. Ban đầu đã có một nhà chiêm tinh xem mệnh cho ông Lâm và nói rằng ông chỉ có thể sống tới năm 70 tuổi, nhưng ông Lâm đã sống đến 88 tuổi, hơn nữa không hề có bệnh nào và có được một kết thúc có hậu.
+ 
+ Trong thế giới rộng lớn này, làm sao chú rùa biển có thể biết được sắp có tai nạn trên biển? Và cũng làm thế nào nó biết được người con trai thứ hai của ân nhân mình ngày hôm nay sẽ gặp nạn? Họ đều chưa bao giờ gặp nhau, vậy làm thế nào con rùa có thể tìm thấy anh ấy trên biển cả, và lại còn có thể chở anh ta trên lưng? Chúng ta chỉ có thể nói rằng quan hệ nhân quả thật không sai chệch chút nào. Chú rùa biết đền ơn đáp nghĩa, không ngại sóng to gió lớn mà đưa con trai của ân nhân an toàn trở về nhà, đây quả thực giống như một câu chuyện cổ tích giữa đời thường.
+ 
+ 
+ Tuệ Minh",thoibao.today,0.45,0.53905994,0.38860276341438293,Real,Fake
+"Thời buổi giờ xinh quá cũng là cái tội, như cô gái này chẳng hạn!",,"Nét mặt xinh xắn siêu dễ thương của cô gái trong loạt hình 4 biểu cảm đã khiến các nam nhân mạng xã hội sốt sắng không yên, và đây chính là thông tin của cô ấy!
+Xinh nên bị để ý, câu nói ấy không chỉ đúng ở mọi lúc mọi nơi mọi hoàn cảnh mà đúng với bất cứ cô gái xinh đẹp nào. Đôi khi chỉ một bức hình xinh đẹp trên mạng xã hội, nhân vật trai xinh gái đẹp đó đã khiến cư dân mạng dậy sóng. Như cô gái có khuôn miệng biết cười này là một ví dụ.
+Bức ảnh của thiếu nữ xinh đẹp khiến dân tình phát sốt
+XEM THÊM: Choáng váng với dụng cụ tra tấn phụ nữ thời trung cổ, chỉ cần nhìn cũng tự khắc cắn lưỡi tự tử
+Sau khi một bức hình của cô “lạc trôi” trên mạng xã hội, rất nhiều người đã xốn xang lên vì vẻ đẹp ngây thơ trong sáng của thiếu nữ này, tất nhiên chuyện săn lùng tên tuổi, địa chỉ facebook cũng không nằm ngoại lệ. Nhanh như một cơn gió, chỉ vài tiếng sau khi hình ảnh được lan truyền, cư dân mạng đã xác nhận được cô gái trong hình là Lê Nguyễn Bảo Quỳnh, một người mẫu teen tự do tại thành phố Hồ Chí Minh.
+Cô gái sinh 9x này cuốn hút người đối diện bằng một đôi mắt ướt át, to tròn đầy ngơ ngác, khuôn mặt ngây thơ khiến chàng trai nào cũng muốn che chở.
+Được biết, cô gái đến từ Gia Lai, từng học trường Đại học Sân khấu Điện ảnh và đang thử sức trong lĩnh vực người mẫu chuyên nghiệp. Trên trang cá nhân của cô sở hữu 13.000 người theo dõi và con số này vẫn đang tiếp tục tăng lên.",tinvn.info,0.7,0.5678122,0.38860276341438293,Fake,Fake
+Chuyện li kì người phụ nữ cứu rắn hổ chúa và bầy rắn hổ tìm đến nhà để…,,"Rắn hổ mang (danh pháp khoa học: Naja atra) là một loài rắn thuộc Họ Rắn hổ (Elapidae). Đây là loài rắn xuất hiện tại miền bắc Việt Nam và được người Việt quen gọi bằng tên rắn hổ mang. Trong tiếng Việt, danh từ rắn hổ mang bắt nguồn từ hình dạng của loài rắn này.
+Rắn trưởng thành ăn chuột, cóc, rắn… rắn non ăn ếch nhái là chủ yếu. Rắn giao phối vào tháng 5 và đẻ trứng vào tháng 6, đẻ 9 – 22 trứng, kích thước 59-62 / 29-29mm và có hiện tượng con cái canh giữ trứng. Trứng nở vào tháng 8. Con non mới nở dài 200-350mm và có khả năng bạnh cổ.
+Trong khi không ít vụ rắn báo thù khiến dân mạng rợn người, thì câu chuyện chú rắn trả ơn cứu mạng sau đây cũng đang thu hút sự chú ý.
+Mới đây, một đoạn video clip ghi lại hình ảnh hai người đàn ông đang cố gắng cứu một chú rắn thoát khỏi chiếc bẫy bằng lưới. Sẽ không có gì đáng chú ý nếu như sau khi được cứu sống, chú rắn này không bỏ đi ngay lập tức vì sợ hãi như những gì nhiều người tưởng tượng. Mà ngược lại, con rắn còn tỏ ra khá bình tính, đứng nhìn người cứu mạng một lúc. Rồi sau đó từ từ nhả trong miệng ra một miếng mồi đã được nuốt trước đó như một cách để trả ơn.
+Chính hai chàng trai cứu sống chú rắn này cũng vô cùng hoảng hốt trước hành động quá bất ngờ này. Cả hai không ngừng cảm thán với hành động “rất con người” này của chú rắn kia. Cư dân mạng sau khi theo dõi đoạn video đã nhanh chóng truyền tay nhau với tốc độ chóng mặc. Nhiều người cho rằng việc chú rắn này nhả mồi trả ơn người cứu mạng là quá kì diệu và ngoài sức tưởng tượng.
+>
+Trước đó, những câu chuyện “rắn thần” báo thù được lan truyền khắp nơi khiến nhiều người rợn tóc gáy. Trong khi chuyện rắn trả ơn cứu mạng gần như chỉ có trong những câu chuyện cổ tích. Chính vì vậy, việc chú rắn này bình tĩnh nhả mồi trả ơn cứu mạng đã và đang là chủ đề nóng được dư luận quan tâm.
+Một trong những câu chuyện rắn hổ chúa trả ơn cũng đang rất thu hút sự quan tâm của cộng đồng mạng đó là câu chuyện của chị H, hiện đang cư trú ở Nghệ An.
+Thấy con rắn hổ chúa bị mắc lưới, chị H đã liều mình lao vào giải cứu con rắn trước khi bị bầy kiến xơi. sau đó chị về nhà và thấy bậy rắn trên giương, chúng quấn lấy chị, không hề làm hại chị. từ đó chị có thể trò chuyện và cầm bắt rắn hổ mà không bị chúng làm hại
+Chị H đùa giỡn với bầy rắn
+thấy sự việc kinh hoàng, người dân trong vùng phong cho chị là thần rắn, họ tôn thờ rắn chúa và không bao giờ làm hại bất kì con rắn nào",tinvn.info,0.45,0.5413268,0.38860276341438293,Real,Fake
+"Tưởng ổ trứng gà mang về ấp thành con, thanh niên ngay lập tức chuyển nhà chỉ sau 2 tuần",,"Chỉ sau 2 tuần, ổ trứng lạ nở khiến chủ nhà tái xanh mặt khi biết “danh tính” của con vật.
+Một lần phiêu lưu ở ngoại ô, người đàn ông bất ngờ bắt gặp ổ trứng lạ. Quá tò mò và háo hức, ông quyết định mang về để theo dõi xem chuyện gì sẽ xảy ra.
+Sau vài tuần, ổ trứng bắt đầu nở. Người đàn ông thảng thốt không tin nổi vào mắt mình khi chứng kiến cảnh tượng hãi hùng trước mắt.
+Những con rắn màu sắc kỳ lạ, cả người và mắt đều có màu cam. Đặc biệt, những con rắn này đều có 2 đầu kinh dị.
+Người đàn ông cảm thấy vô cùng hối hận về quyết định của mình. Lúc đầu, ông cứ ngỡ mấy con rắn nở ra trước bị khuyết tật nên mới có hai đầu.
+Nhưng khi ổ trứng nở hết, con nào cũng có 2 đầu, ông mới tá hỏa phát hiện, thì ra đây là đặc điểm của loài rắn này.",tinvn.info,0.45,0.55837274,0.38860276341438293,Fake,Fake
+Băng trộm SH đâm chết các 'hiệp sĩ': Tấm lòng người cha hiệp sĩ,,"Ông là Nguyễn Hiếu Hoàng, cha của “hiệp sĩ đường phố” Nguyễn Hoàng Nam - người đã hy sinh khi truy bắt nhóm trộm xe SH trên đường Cách Mạng Tháng 8 (TP.HCM) vào tháng 5.2018.
+Mới đây, ngày 29.11, TAND TP.HCM đưa vụ án ra xét xử sơ thẩm. HĐXX tuyên phạt bị cáo Nguyễn Tấn Tài (tức Tài “mụn”, ngụ Q.12, TP.HCM) mức án tử hình về tội “giết người”, “cướp tài sản” và “cố ý gây thương tích”; Nguyễn Hoàng Châu Phú (ngụ H.Hóc Môn, TP.HCM) mức án chung thân về cùng tội danh trên; bị cáo Ngô Văn Hùng (32 tuổi) 4 năm tù và Trịnh Thị Như (27 tuổi, cùng ngụ Q.Gò Vấp, TP.HCM) 1 năm tù nhưng cho hưởng án treo về cùng tội ""che giấu tội phạm"".
+Hy sinh vì việc nghĩa
+Tôi chỉ dặn dò con phải cẩn thận. Thực sự mỗi đêm tôi đều lo con có mệnh hệ gì, sợ con bị tội phạm đâm, chém... Nhưng nếu ai cũng nghĩ việc khó không làm thì
+ai làm, nên tôi không cản con
+Ông Nguyễn Hiếu Hoàng,cha của “hiệp sĩ đường phố” Nguyễn Hoàng Nam Cáo trạng thể hiện, ngày 13.5.2018, Tài và Phú rủ nhau đi trộm xe để có tiền tiêu xài. Trước khi đi cả hai không quên mang theo dao để chống trả nếu bị phát hiện. Khoảng 18 giờ 20, thấy chiếc xe SH không có người trông coi ở một cửa hàng quần áo trên đường Cách Mạng Tháng 8 (Q.3, TP.HCM), Phú và Tài đến lấy xe định nổ máy bỏ chạy thì nhóm “hiệp sĩ đường phố” phát hiện. Cáo trạng thể hiện, ngày 13.5.2018, Tài và Phú rủ nhau đi trộm xe để có tiền tiêu xài. Trước khi đi cả hai không quên mang theo dao để chống trả nếu bị phát hiện. Khoảng 18 giờ 20, thấy chiếc xe SH không có người trông coi ở một cửa hàng quần áo trên đường Cách Mạng Tháng 8 (Q.3, TP.HCM), Phú và Tài đến lấy xe định nổ máy bỏ chạy thì nhóm “hiệp sĩ đường phố” phát hiện.
+“Hiệp sĩ” Trần Văn Hoàng lao xe thẳng vào xe Tài mới trộm khiến Tài ngã ra đường, một số “hiệp sĩ” khác ào tới khống chế. Tuy nhiên, Tài dùng dao thủ sẵn đâm nhiều nhát vào nhóm “hiệp sĩ” làm anh Nguyễn Hoàng Nam, Nguyễn Văn Thôi tử vong tại chỗ, các anh Trần Văn Hoàng, Đinh Phú Quý, Nguyễn Đức Huy bị thương (xác định tỷ lệ thương tật từ 2 - 68%).
+Hùng và Như biết Tài và Phú phạm tội nhưng lại che giấu, tạo điều kiện cho hai bị cáo bỏ trốn.
+HĐXX cho rằng các “hiệp sĩ” đã làm việc nghĩa hiệp, hy sinh thân mình để bảo vệ tài sản, tính mạng người dân nhưng các bị cáo lại bất chấp, xâm phạm tài sản người khác, tính mạng, sức khỏe của các “hiệp sĩ” nên cần có mức hình phạt nghiêm khắc như trên.
+Cha muốn gánh hết thương đau kiếp này...
+Đến dự phiên xét xử hôm ấy, ông Nguyễn Hiếu Hoàng ôm di ảnh con trai lặng lẽ ngồi thu mình ở một góc bàn. Ông liên tục lấy vạt áo quệt nước mắt lăn dài trên má. Quá trình HĐXX xét hỏi, mỗi khi bị cáo lặp lại hành vi giết 2 “hiệp sĩ” là vai ông rung lên bần bật. Nhiều lúc, đôi bàn tay gầy guộc phải nắm chặt di ảnh con trai để giữ bình tĩnh.
+tin liên quan Ba, mẹ các hiệp sĩ bị băng trộm SH đâm chết: 'Con tôi chết máu chảy thành sông' “Con trai của tôi đấy, nó rất ngoan”, ông ngước lên trả lời tôi, đôi mắt còn đọng màng nước mỏng nhưng ánh lên niềm tự hào, bàn tay không ngừng sờ nhẹ, vuốt ve khuôn mặt trên di ảnh cậu con trai 29 tuổi. “Con trai của tôi đấy, nó rất ngoan”, ông ngước lên trả lời tôi, đôi mắt còn đọng màng nước mỏng nhưng ánh lên niềm tự hào, bàn tay không ngừng sờ nhẹ, vuốt ve khuôn mặt trên di ảnh cậu con trai 29 tuổi.
+Ông kể vợ chồng ông cưới nhau, dù nhà nghèo nhưng cũng ráng bươn chải lo cho hai đứa con. Nam là con lớn, rất thương bố mẹ và em gái. Trước đây cả gia đình thuê nhà sống ở Q.Gò Vấp (TP.HCM), nhưng do cuộc sống khó khăn nên ông quyết định về H.Trảng Bom để mưu sinh. Còn vợ ông, con gái và Nam ở lại TP.HCM. Thỉnh thoảng, vợ con ông vẫn xuống thăm ông.
+“Trước đây hay nghe người ta nói “Tình thân nào bằng tình mẫu tử. Con mất rồi cha cũng muốn chết theo”, đến bây giờ tôi mới thấm thía nghĩa của nó. Có những lúc tim tôi muốn ngừng đập, đau lắm, không diễn tả được. Làm cha, tôi muốn gánh hết thương đau kiếp này thay cho con mà không thể. Có lúc thân xác tôi không còn cảm xúc đau đớn, chỉ muốn đi theo con vì thương nhớ”, ông Hoàng vừa nói vừa gạt nước mắt.
+Ngọc Dương Đưa các bị cáo ra xe về trại giam sau phiên xét xử
+Ông kể tiếp, xưa nay bố mẹ chẳng bao giờ đòi hỏi gì nhưng Nam luôn để ý từ những thứ nhỏ nhặt, lẳng lặng đi mua thuốc, mua sữa, mua quần áo... cho bố mẹ về để trong phòng. “Làm bao nhiêu tiền nó cũng chỉ lo cho gia đình. Vậy mà, giờ nó không còn nữa rồi. Con tôi mất ở cái tuổi đang rất đẹp, mới 29 tuổi đời”, người cha lại rưng rưng.
+tin liên quan Vì 20 triệu, chồng án tử vợ chung thân để lại đứa bé 10 tuổi bơ vơ Đau đớn hơn, ngày Nam ra đi cũng là ngày anh hẹn về Đồng Nai thăm bố, ăn bữa cơm cùng bố. “Ngày hôm đó, tôi làm việc xin về sớm để gặp con, ăn cơm với con vì lâu lắm con mới về thăm. Ngồi đợi cả ngày không thấy nó, đến chiều gọi điện nó bảo đang bận làm, tối làm xong sẽ về ngủ với bố. Đau đớn hơn, ngày Nam ra đi cũng là ngày anh hẹn về Đồng Nai thăm bố, ăn bữa cơm cùng bố. “Ngày hôm đó, tôi làm việc xin về sớm để gặp con, ăn cơm với con vì lâu lắm con mới về thăm. Ngồi đợi cả ngày không thấy nó, đến chiều gọi điện nó bảo đang bận làm, tối làm xong sẽ về ngủ với bố.
+Đến khuya thì bàng hoàng nghe hung tin…”, ông Hoàng nói và bảo ông biết con làm “hiệp sĩ đường phố” nhưng chưa bao giờ cấm cản. Bởi việc con trai ông làm là việc nghĩa, biết sống cho cộng đồng, sống vì xã hội nên gia đình luôn tự hào.
+“Tôi chỉ dặn dò con phải cẩn thận. Thực sự mỗi đêm tôi đều lo con có mệnh hệ gì, sợ con bị tội phạm đâm, chém… Nhưng nếu ai cũng nghĩ việc khó không làm thì ai làm, nên tôi không cản con. Ngày con mất, vào lục tủ đồ của con mới thấy hàng chục thẻ hiến máu nhân đạo, bằng khen. Nhưng giờ tôi phải giấu kỹ những cái đó, bởi cứ xuất hiện trước mặt là không cầm được nước mắt, thương con”, ông Hoàng giãi bày.
+Đừng gieo rắc nỗi đau cho người khác nữa
+Trước khi tòa nghị án, HĐXX hỏi gia đình có yêu cầu bồi thường thiệt hại gì không, người cha “hiệp sĩ” bảo ông không yêu cầu bồi thường gì bởi có nỗi đau nào bằng nỗi đau mất con, có gì có thể bù đắp được nỗi đau đó…
+Tòa tuyên án, các bị cáo bị dẫn giải ra xe để về trại giam, ông đứng lẳng lặng ôm di ảnh con trai nhìn theo, lắc đầu nhè nhẹ. Tôi khẽ hỏi: “Bác có hận bị cáo vì đã đâm chết con mình không?”.
+Ông nói: “Hận để làm gì, con tôi đâu thể quay về nữa? Tôi chỉ mong những ngày tháng trong chốn lao tù các bị cáo ân hận và sống một cuộc đời lương thiện, đừng làm kẻ xấu như trước, đừng trộm cắp, giết người, đừng gieo rắc nỗi đau cho những người làm cha, làm mẹ như chúng tôi. Xót lắm”.",thanhnien.vn,0.44,0.47568598,0.38860276341438293,Real,Real
+"Hà Nội, Sài Gòn cờ rợp đường mừng chiến thắng của tuyển Việt Nam",,"23h00
+Khu trung tâm TP HCM giao thông hỗn loạn, người dân vẫn hô vang ""Việt Nam chiến thắng"", hò hét, phất cờ... Tại đường Trần Hưng Đạo, dòng người ở hai luồng giao thông chồm qua dải phân cách bắt tay nhau, cười tươi cùng chúc mừng chiến thắng của đội tuyển.
+Một số nơi không thể di chuyển, người dân tụ tập thành nhóm, khu vực ăn mừng theo cách riêng của mình.",vnexpress.net,0.0,0.47638798,0.38860276341438293,Real,Real
+"Đêm nào cũng thấy vợ biến mất, đặt camera ẩn chồng phát hiện hành động quá kinh hoàng",,"Hành động kinh khủng này của người vợ đã khiến ông chồng phải cảm thấy ớn lạnh khi tận mắt chứng kiến qua camera.
+Camera là một trong những công cụ giám sát thuận lợi nhất cho nhà cửa hoặc nơi làm việc, nơi sản xuất của bạn.
+Một ông chồng đã cũng đã thực hiện lắp camera trong căn phòng ngủ của mình vừa để tiện quan sát đứa con mới sinh của mình, vừa nhằm mục đích đề phòng nếu có kẻ trộm xâm nhập. Mặc dù chưa có tên trộm nào lẻn vào nhà, nhưng người đàn ông này lại được một phen rợn tóc gáy khi phát hiện ra hành động vô cùng đáng sợ này của vợ mình.
+Người đàn ông này được một phen rợn tóc gáy khi phát hiện ra hành động vô cùng đáng sợ này của vợ mình.
+Hình ảnh ghi lại lấy được từ camera cho thấy, trong căn phòng tối, người vợ của ông nằm trên sàn nhà, hai mắt sáng lóe lên. Cơ thể được kéo lê trên mặt đất như thể có ai đấy cầm hai chân kéo đi.
+Người vợ của ông nằm trên sàn nhà, hai mắt sáng lóe lên.
+Cơ thể được kéo lê trên mặt đất như thể có ai đấy cầm hai chân kéo đi.
+Hành động kỳ quặc này của người vợ đã khiến ông chồng lạnh toát sống lưng khi chứng kiến tận mắt toàn bộ quá trình. Tuy nhiên, mọi chuyện vỡ lẽ sau khi ông trực tiếp hỏi bà vợ lý do đằng sau câu chuyện đáng sợ này.
+Thì ra, hai mắt bà sáng lóe lên trong bóng tối là do hiệu ứng mắt đỏ khi nhìn vào camera. Còn hành động như bị kéo lê trên sàn nhà là do đứa con nhỏ mỗi lần thấy người mẹ ra khỏi phòng sẽ khóc thét lên, nên bà chỉ còn cách phải nằm bệt hẳn dưới sàn nhà để di chuyển, nhằm tránh cho đứa con không nhìn thấy.",tinvn.info,0.45,0.5322516,0.38860276341438293,Real,Fake
+VIDEO: Xót xa nhìn cảnh cụ bà 87 tuổi co ro trong tấm chiếu cũ giữa mùa đông rét buốt,," Không chồng con, mấy chục năm qua bà Nguyễn Thị Đỡ (87 tuổi) vẫn sống côi cút trong căn nhà cũ kỹ chỉ khoảng chục mét vuông tại đội 1, thôn Bắc, xã Cổ Dũng, huyện Kim Thành (Hải Dương).
+
+    Ngưỡng mộ với tình yêu dành cho quê hương qua những bản nhạc du dương của chàng trai 10X Hải Dương
+    Con đường chinh phục “đỉnh cao” của chàng trai Hải Dương - Á quân Vietnam Idol 2016
+
+Ở cái tuổi gần đất xa trời, cuộc sống của bà Đỡ vẫn không có lấy một ngày thảnh thơi. Khoản trợ cấp ít ỏi cho người nghèo chỉ giúp bà có tiền mua gạo, lo thuốc thang. Khi khỏe mạnh, bà phải tự mình mưu sinh. Lúc ốm đau, bà đành nhờ vả người em trai sống gần nhà.
+
+Căn nhà cũ kỹ của bà Đỡ - Ảnh: Facebook
+
+Căn nhà cũ kỹ của bà Đỡ - Ảnh: Facebook
+
+Biết hoàn cảnh thương tâm của bà Đỡ, nhiều người đã tìm đến căn nhà cũ kỹ hỏi thăm. Một người phụ nữ tiến lại gần, vạch chiếc chiếu ra mới nhìn thấy bà co ro trong giá lạnh.
+
+“Bà ơi, bà có lạnh không?”. Không nghe tiếng đáp trả, chỉ nghe của tiếng một cụ ông đáp thay: “Bà không nghe gì đâu cháu”. Một lúc sau, bà Đỡ mới phản ứng như muốn chống lại cơn lạnh buốt.
+
+“Bà lạnh lắm! Chân tay run hết cả lên rồi!”, chị này tiến ra ngoài và báo cho mọi người đến thăm biết tình hình của cụ.
+
+Hình ảnh bà Đỡ co ro trong tấm chiếu cũ - Ảnh: Facebook
+
+Hình ảnh bà Đỡ co ro trong tấm chiếu cũ - Ảnh: Facebook
+
+Sau khi câu chuyện và hình ảnh thương tâm của bà Đỡ đăng tải, cộng đồng mạng không khỏi xót xa. Bài viết đã nhận được hàng nghìn lượt quan tâm và chia sẻ của mọi người.
+
+Cộng đồng mạng đăng tải câu chuyện thương tâm của bà Đỡ - Ảnh chụp màn hình
+
+Cộng đồng mạng đăng tải câu chuyện thương tâm của bà Đỡ - Ảnh chụp màn hình
+
+Một số bạn trẻ đã đứng ra quyên góp gửi đến bà số tiền để vơi bớt phần nào khó khăn. Nhóm tình nguyện tại địa phương đã tổ chức thăm hỏi, sửa sang lại nhà cửa, chuyển đến bà những tấm chăn gối mới để mùa đông của bà ấm áp hơn.
+
+Mùa đông này bà Đỡ đã ấp áp hơn khi sống trong căn nhà tường vôi mới, chăn đệm mới - Ảnh: Facebook
+
+Mùa đông này bà Đỡ đã ấp áp hơn khi sống trong căn nhà tường vôi mới, chăn đệm mới - Ảnh: Facebook
+
+Giờ đây bà Đỡ đã không còn phải sống trong cảnh đắp chiếu thay chăn - Ảnh: Facebook
+
+Giờ đây bà Đỡ đã không còn phải sống trong cảnh đắp chiếu thay chăn - Ảnh: Facebook
+create
+
+Minh Cát / phunusuckhoe.vn",haiduong.tintuc.vn,0.25,0.5272055,0.38860276341438293,Real,Fake
